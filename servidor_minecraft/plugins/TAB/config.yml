@@ -99,7 +99,7 @@ scoreboard:
         - "➤&b&lInfo:"
         - " &fNick: &b%player%"
         - " &fRango: %luckperms_prefix%"
-        - " &fClan: &b%clan_prefix%"
+        - " &fPing: &b%ping%ms"
         - ""
         - "➤&b&lEstadisticas:"
         - " &f⚔Kills: &b%statistic_player_kills%"

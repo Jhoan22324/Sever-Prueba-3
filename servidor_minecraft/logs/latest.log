@@ -382,3 +382,67 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [21:16:23] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
 [21:16:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
 [21:16:23] [Server thread/INFO]: [TAB] Enabled in 17ms
+[21:18:56] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
+[21:18:56] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:18:56] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:18:56] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:18:56] [Server thread/INFO]: [TAB] Enabled in 12ms
+[21:19:45] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
+[21:19:45] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:19:45] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:19:45] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:19:45] [Server thread/INFO]: [TAB] Enabled in 9ms
+[21:19:53] [Server thread/INFO]: SebasyTU_ lost connection: Disconnected
+[21:19:53] [Server thread/INFO]: SebasyTU_ left the game
+[21:19:58] [Server thread/INFO]: Stopping the server
+[21:19:58] [Server thread/INFO]: Stopping server
+[21:19:58] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:19:58] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
+[21:19:58] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[21:19:58] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
+[21:19:58] [Server thread/INFO]: [ClanSystem] Disabling ClanSystem v1.0
+[21:19:58] [Server thread/INFO]: [ClanSystem] §c[ClanSystem] تم إيقاف نظام العشائر!
+[21:19:58] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[21:19:58] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:19:58] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.17
+[21:19:58] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[21:19:58] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
+[21:19:58] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
+[21:19:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:19:58] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:19:58] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:19:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[21:19:58] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:19:58] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:19:58] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:19:58] [Server thread/INFO]: Saving players
+[21:19:58] [Server thread/INFO]: Saving worlds
+[21:19:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:19:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:19:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:19:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Saved 343 block chunks, 339 entity chunks, 0 poi chunks in world 'world' in 0.91s
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:19:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:19:59] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:19:59] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:19:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:19:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
