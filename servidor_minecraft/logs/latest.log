@@ -357,3 +357,28 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [21:06:04] [Server thread/INFO]: SebasyTU_ issued server command: /a
 [21:06:07] [Async Chat Thread - #2/INFO]: [Not Secure] [SGR] SebasyTU_: ostia
 [21:06:29] [Server thread/INFO]: SebasyTU_ issued server command: /clan
+[21:08:35] [Async Chat Thread - #4/INFO]: [Not Secure] [SGR] SebasyTU_: a
+[21:09:43] [Netty Epoll Server IO #0/INFO]: Disconnecting SebasyTU_ for sending keepalive response (2242353) out-of-order!
+[21:09:43] [Server thread/INFO]: SebasyTU_ lost connection: Timed out
+[21:09:43] [Server thread/INFO]: SebasyTU_ left the game
+[21:09:48] [User Authenticator #2/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
+[21:09:49] [Server thread/INFO]: SebasyTU_ joined the game
+[21:09:49] [Server thread/INFO]: SebasyTU_[/127.19.202.255:37513] logged in with entity id 1985 at ([world]-2734.7467613605554, 92.0, 4444.646068031639)
+[21:12:05] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
+[21:12:05] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:12:05] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:12:05] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:12:05] [Server thread/INFO]: [TAB] Enabled in 32ms
+[21:14:27] [Async Chat Thread - #6/INFO]: [Not Secure] [SGR] SebasyTU_: %clan_tag%
+[21:14:49] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
+[21:14:49] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:14:49] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:14:49] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:14:49] [Server thread/INFO]: [TAB] Enabled in 19ms
+[21:15:38] [Server thread/INFO]: SebasyTU_ issued server command: /clan reload
+[21:16:00] [Server thread/INFO]: SebasyTU_ issued server command: /clansystem:c
+[21:16:23] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
+[21:16:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:16:23] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:16:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:16:23] [Server thread/INFO]: [TAB] Enabled in 17ms

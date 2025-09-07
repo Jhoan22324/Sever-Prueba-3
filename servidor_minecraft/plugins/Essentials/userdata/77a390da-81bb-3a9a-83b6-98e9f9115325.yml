@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757278839516
-  login: 1757278844712
+  logout: 1757279383372
+  login: 1757279389923
 money: '769.8900000000001'
 last-account-name: SebasyTU_
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: -2733.2299605244675
+  x: -2734.7467613605554
   y: 92.0
-  z: 4441.291180092183
-  yaw: 47.0401725769043
-  pitch: 0.34761306643486023
+  z: 4444.646068031639
+  yaw: -105.19979858398438
+  pitch: 4.025851726531982
 lastlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
