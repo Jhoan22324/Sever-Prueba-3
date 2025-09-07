@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.20.228.124
+ip-address: 127.195.65.22
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757206329020
-  login: 1757206173258
-money: '10580.87'
+  logout: 1757260295977
+  login: 1757255982491
+money: '1009.18999999999999996'
 last-account-name: ghost17z
 logoutlocation:
-  world: 7db02c2e-08b6-4528-b58a-1d55a9ca2484
+  world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 381.60164335406677
-  y: 72.0
-  z: 2450.699999988079
-  yaw: -161.099853515625
-  pitch: 9.60012149810791
+  x: -745.5153127680393
+  y: 74.875
+  z: 1883.300000011921
+  yaw: 56.10479736328125
+  pitch: 40.64992141723633
+lastlocation:
+  world: 378778be-ef0d-45f2-b0a3-095d71861a60
+  world-name: world
+  x: 33.834811563654824
+  y: 102.11948702015752
+  z: 87.78916620314469
+  yaw: -5.849897384643555
+  pitch: 6.705522537231445E-6

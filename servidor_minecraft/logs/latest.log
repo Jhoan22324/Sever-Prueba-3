@@ -1,128 +1,129 @@
-[14:15:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[14:15:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[14:15:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[14:15:07] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SimpleTPA-1.0Experimentalv2.jar'...
-[14:15:07] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SimpleTPA-1.0Experimentalv2.jar' in 347ms.
-[14:15:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
-[14:15:08] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[14:36:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[14:36:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[14:36:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:36:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/MeteoritesPro.jar'...
+[14:36:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/MeteoritesPro.jar' in 441ms.
+[14:36:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[14:36:09] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - EconomyShopGUI (6.14.5)
-[14:15:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
- - Craftorithm (1.10.20-20250816), DeadlyDisasters (12.1), Essentials (2.22.0-dev+26-e086064), LuckPerms (5.5.11), MythicMobs (5.9.5-f13ab4a1), NametagEditX (5.0.0), PlaceholderAPI (2.11.6), SimpleTPA (1.0), SkinsRestorer (15.7.10), TAB (5.2.5), TerraformGenerator (22.0.0), Vault (1.7.3-b131)
-[14:15:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:15:14] [ServerMain/INFO]: Loaded 1407 recipes
-[14:15:14] [ServerMain/INFO]: Loaded 1520 advancements
-[14:15:14] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[14:15:15] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,104.0ms
-[14:15:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[14:15:16] [Server thread/INFO]: Loading properties
-[14:15:16] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[14:15:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[14:15:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:15:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:15:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[14:15:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[14:15:17] [Server thread/INFO]: Default game type: SURVIVAL
-[14:15:17] [Server thread/INFO]: Generating keypair
-[14:15:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:15:17] [Server thread/INFO]: Using epoll channel type
-[14:15:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:15:17] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
-[14:15:17] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[14:15:18] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.11
-[14:15:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:15:18] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[14:15:18] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[14:15:18] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.9.5-f13ab4a1
-[14:15:18] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
-[14:15:18] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
-[14:15:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+26-e086064
-[14:15:18] [Server thread/INFO]: [NametagEditX] Loading server plugin NametagEditX v5.0.0
-[14:15:18] [Server thread/INFO]: [Craftorithm] Loading server plugin Craftorithm v1.10.20-20250816
-[14:15:18] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[14:15:18] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v22.0.0
-[14:15:18] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.14.5
-[14:15:18] [Server thread/INFO]: [DeadlyDisasters] Loading server plugin DeadlyDisasters v12.1
-[14:15:18] [Server thread/INFO]: [SimpleTPA] Loading server plugin SimpleTPA v1.0
-[14:15:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[14:15:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:15:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.11
-[14:15:19] [Server thread/INFO]:         __    
-[14:15:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.11
-[14:15:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:15:19] [Server thread/INFO]: 
-[14:15:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:15:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:15:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:15:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1646ms)
-[14:15:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[14:15:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[14:15:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[14:15:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[14:15:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[14:15:20] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v22.0.0
-[14:15:21] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[14:15:21] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[14:15:21] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
-[14:15:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[14:15:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[14:15:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[14:15:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.10]
-[14:15:22] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[14:15:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:15:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:15:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:15:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:15:22] [Server thread/INFO]: Preparing level "world"
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[14:15:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[14:15:23] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[14:15:23] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[14:15:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:15:23] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Time elapsed: 937 ms
-[14:15:24] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[14:15:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Time elapsed: 250 ms
-[14:15:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:15:24] [Server thread/INFO]: Preparing spawn area: 0%
-[14:15:24] [Server thread/INFO]: Time elapsed: 146 ms
-[14:15:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[14:15:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[14:15:25] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
-[14:15:25] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.8)...
-[14:15:25] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
-[14:15:25] [Server thread/ERROR]: Error occurred while enabling MythicMobs v5.9.5-f13ab4a1 (Is it up to date?)
+[14:36:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - Craftorithm (1.10.20-20250816), Essentials (2.22.0-dev+26-e086064), LuckPerms (5.5.11), MeteoritesPro (1.5.3), MythicMobs (5.9.5-f13ab4a1), NametagEditX (5.0.0), PlaceholderAPI (2.11.6), SimpleTPA (1.0), SkinsRestorer (15.7.10), TAB (5.2.5), TerraformGenerator (22.0.0), Vault (1.7.3-b131)
+[14:36:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:15] [ServerMain/INFO]: Loaded 1407 recipes
+[14:36:15] [ServerMain/INFO]: Loaded 1520 advancements
+[14:36:15] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:36:16] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 964.6ms
+[14:36:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[14:36:16] [Server thread/INFO]: Loading properties
+[14:36:16] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[14:36:16] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:36:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:36:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:36:17] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[14:36:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[14:36:17] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:17] [Server thread/INFO]: Generating keypair
+[14:36:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:18] [Server thread/INFO]: Using epoll channel type
+[14:36:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:36:18] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[14:36:18] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[14:36:19] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.11
+[14:36:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:36:19] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[14:36:19] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[14:36:19] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.9.5-f13ab4a1
+[14:36:19] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[14:36:19] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[14:36:19] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+26-e086064
+[14:36:19] [Server thread/INFO]: [NametagEditX] Loading server plugin NametagEditX v5.0.0
+[14:36:19] [Server thread/INFO]: [MeteoritesPro] Loading server plugin MeteoritesPro v1.5.3
+[14:36:19] [Server thread/INFO]: [Craftorithm] Loading server plugin Craftorithm v1.10.20-20250816
+[14:36:19] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[14:36:19] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v22.0.0
+[14:36:19] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.14.5
+[14:36:19] [Server thread/INFO]: [SimpleTPA] Loading server plugin SimpleTPA v1.0
+[14:36:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[14:36:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:36:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.11
+[14:36:20] [Server thread/INFO]:         __    
+[14:36:20] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.11
+[14:36:20] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:36:20] [Server thread/INFO]: 
+[14:36:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:36:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:36:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:36:21] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1650ms)
+[14:36:21] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[14:36:21] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:36:21] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:36:21] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[14:36:21] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:36:21] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v22.0.0
+[14:36:21] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[14:36:21] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[14:36:21] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
+[14:36:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[14:36:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[14:36:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[14:36:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.10]
+[14:36:23] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[14:36:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:36:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:36:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:36:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:36:23] [Server thread/INFO]: Preparing level "world"
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[14:36:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[14:36:23] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[14:36:23] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[14:36:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:24] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:24] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:25] [Server thread/INFO]: Time elapsed: 1227 ms
+[14:36:25] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[14:36:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:25] [Server thread/INFO]: Time elapsed: 182 ms
+[14:36:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[14:36:25] [Server thread/INFO]: Time elapsed: 127 ms
+[14:36:25] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[14:36:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[14:36:25] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.9.5-f13ab4a1
+[14:36:25] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.8)...
+[14:36:25] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[14:36:25] [Server thread/ERROR]: Error occurred while enabling MythicMobs v5.9.5-f13ab4a1 (Is it up to date?)
 java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.version.NMSVersion.toString()" because the return value of "io.lumine.mythic.bukkit.utils.version.ServerVersion.getNMS()" is null
 	at MythicMobs-5.9.5.jar/io.lumine.mythic.bukkit.MythicBukkit.getVolatileCodeHandler(MythicBukkit.java:305) ~[MythicMobs-5.9.5.jar:?]
 	at MythicMobs-5.9.5.jar/io.lumine.mythic.bukkit.BukkitBootstrap.lambda$initialize$0(BukkitBootstrap.java:98) ~[MythicMobs-5.9.5.jar:?]
@@ -142,395 +143,699 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[14:15:25] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
-[14:15:25] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[14:15:25] [Server thread/INFO]: [MythicMobs] - 
-[14:15:25] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[14:15:25] [Server thread/INFO]: [MythicMobs] - 
-[14:15:25] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[14:15:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.despawnAllMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.MythicBukkit.disable(MythicBukkit.java:257)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:91)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[14:15:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[14:15:25] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[14:15:25] [Server thread/INFO]: [MythicMobs] ✗An error occurred while saving data
-[14:15:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.saveCachedActiveMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.save(ConfigExecutor.java:479)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:508)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[14:15:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[14:15:25] [Server thread/WARN]: io.lumine.mythic.bukkit.utils.terminable.composite.CompositeClosingException: Exception(s) occurred whilst closing: [java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null]
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:38)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[14:15:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[14:15:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:510)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
-[14:15:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
-[14:15:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
-[14:15:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
-[14:15:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
-[14:15:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[14:15:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+26-e086064
-[14:15:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[14:15:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[14:15:25] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[14:15:26] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[14:15:26] [Server thread/INFO]: [Essentials] Using locale en
-[14:15:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[14:15:26] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[14:15:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[14:15:26] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[14:15:26] [Server thread/INFO]: [NametagEditX] Enabling NametagEditX v5.0.0
-[14:15:26] [Server thread/INFO]: [NametagEditX] Found LuckPerms! Hooking in.
-[14:15:26] [Server thread/INFO]: [NametagEditX] Found PlaceholderAPI! Hooking in.
-[14:15:26] [Server thread/INFO]: [Craftorithm] Enabling Craftorithm v1.10.20-20250816
-[14:15:26] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[14:15:27] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:15:27] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:15:27] [Server thread/INFO]: [TAB] Enabled in 348ms
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.14.5
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-es.yml as language file
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21.8...
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
-[14:15:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
-[14:15:27] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
-[14:15:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 1073ms para completar
-[14:15:28] [Server thread/INFO]: [DeadlyDisasters] Enabling DeadlyDisasters v12.1
-[14:15:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:15:28] [Server thread/INFO]: [DeadlyDisasters]: There is an optional dependency UIFramework, that adds some custom items to DeadlyDisasters such as the plague cure potion, basic coating enchant, and more! Get UIFramework here: https://www.spigotmc.org/resources/uiframework.110768/
-[14:15:28] [Server thread/INFO]: [DeadlyDisasters] Checking for update...
-[14:15:29] [Server thread/INFO]: [SimpleTPA] Enabling SimpleTPA v1.0
-[14:15:29] [Server thread/INFO]: [SimpleTPA] SimpleTPA Activated!
-[14:15:29] [Server thread/INFO]: [spark] Starting background profiler...
-[14:15:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[14:15:29] [Server thread/INFO]: Done preparing level "world" (6.946s)
-[14:15:29] [Server thread/INFO]: Running delayed init tasks
-[14:15:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[14:15:29] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[14:15:29] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[14:15:29] [Server thread/INFO]: [Craftorithm] Found Vault, hooked successfully.
-[14:15:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[14:15:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[14:15:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[14:15:30] [Server thread/INFO]: 3 placeholder hook(s) registered!
-[14:15:30] [Server thread/INFO]: [Craftorithm] Detected a new version 1.10.21, please update to the latest version promptly!
-[14:15:30] [Server thread/INFO]: [Craftorithm] Plugin loaded successfully.
-[14:15:30] [Server thread/INFO]: Done (23.753s)! For help, type "help"
-[14:15:30] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[14:15:38] [User Authenticator #0/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
-[14:15:38] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, SkinsRestorer, Essentials]
-[14:15:40] [Server thread/INFO]: SebasyTU_ joined the game
-[14:15:40] [Server thread/INFO]: SebasyTU_[/127.19.202.255:49381] logged in with entity id 105 at ([world]659.780951820031, 66.5, 591.2629293715395)
-[14:15:45] [User Authenticator #0/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
-[14:15:45] [Server thread/INFO]: zSxhio joined the game
-[14:15:45] [Server thread/INFO]: zSxhio[/127.34.225.252:50575] logged in with entity id 319 at ([world]-21.826755527041588, 118.24947197770308, -1.712154583991222)
-[14:15:47] [Server thread/INFO]: SebasyTU_ issued server command: /pl
-[14:15:49] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
-[14:16:03] [Server thread/INFO]: zSxhio was slain by Zombie
-[14:16:07] [Server thread/INFO]: SebasyTU_ issued server command: /tpa zSxhio
-[14:16:10] [Server thread/INFO]: zSxhio issued server command: /tpaccept
-[14:16:16] [Server thread/INFO]: [DeadlyDisasters]: Level: 2 Tornado event starting at: -22 110 -30 (zSxhio)
-Tip: Always carry a water bucket with you. (world)
-[14:16:19] [Server thread/INFO]: SebasyTU_ issued server command: /time set day
-[14:16:46] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable
-[14:17:10] [Server thread/INFO]: zSxhio issued server command: /tpa SebasyTU_
-[14:17:14] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
-[14:17:40] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[14:18:55] [Server thread/INFO]: zSxhio has made the advancement [Acquire Hardware]
-[14:19:25] [Server thread/INFO]: zSxhio has made the advancement [Isn't It Iron Pick]
-[14:20:17] [Server thread/INFO]: [DeadlyDisasters]: Level: 4 SinkHole event starting at: 30 75 173 (SebasyTU_)
-Tip: The ground around you becomes unstable, try placing blocks below you to stop falling. (world)
-[14:20:28] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[14:21:37] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:21:37] [Server thread/INFO]: [TAB] Disabled in 2ms
-[14:21:37] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:21:37] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:21:37] [Server thread/INFO]: [TAB] Enabled in 41ms
-[14:21:57] [Server thread/INFO]: zSxhio fell from a high place
-[14:22:13] [Server thread/INFO]: zSxhio issued server command: /tpa SE
-[14:22:16] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
-[14:22:46] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:22:46] [Server thread/INFO]: [TAB] Disabled in 1ms
-[14:22:46] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:22:46] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:22:46] [Server thread/INFO]: [TAB] Enabled in 22ms
-[14:23:01] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:23:02] [Server thread/INFO]: [TAB] Disabled in 1ms
-[14:23:02] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:23:02] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:23:02] [Server thread/INFO]: [TAB] Enabled in 13ms
-[14:23:24] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:23:24] [Server thread/INFO]: [TAB] Disabled in 1ms
-[14:23:24] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:23:24] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:23:24] [Server thread/INFO]: [TAB] Enabled in 13ms
-[14:23:35] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:23:35] [Server thread/INFO]: [TAB] Disabled in 1ms
-[14:23:35] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:23:35] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:23:35] [Server thread/INFO]: [TAB] Enabled in 12ms
-[14:23:57] [Server thread/INFO]: [DeadlyDisasters]: A long Meteor Shower is about to begin
-Tip: Meteors land on the surface and cant penetrate many blocks, try going underground.
-[14:25:02] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable acidstorm
-[14:25:11] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable acidstorm world
-[14:25:18] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable blizzard world
-[14:25:26] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable cavein world
-[14:25:34] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable doomsday world
-[14:25:43] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable doomsday world
-[14:25:56] [Server thread/INFO]: SebasyTU_ issued server command: /disasters difficulty world CUSTOM
-[14:26:26] [Server thread/INFO]: SebasyTU_ issued server command: /disasters config
-[14:26:26] [Server thread/ERROR]: Command exception: /disasters config
-org.bukkit.command.CommandException: Unhandled exception executing command 'disasters' in plugin DeadlyDisasters v12.1
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:105) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:451) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:357) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:345) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2313) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$12(ServerGamePacketListenerImpl.java:2286) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1449) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1429) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1423) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1380) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1388) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1265) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
-	at DeadlyDisasters-V12.1.jar/com.github.jewishbanana.deadlydisasters.commands.Disasters.onCommand(Disasters.java:1287) ~[DeadlyDisasters-V12.1.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.8-R0.1-SNAPSHOT.jar:?]
-	... 26 more
-[14:26:26] [User Authenticator #1/INFO]: UUID of player regsexl is 7712c6cf-a2fb-3e2a-ac83-eb64ed372be2
-[14:26:27] [Server thread/INFO]: regsexl joined the game
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Cover Me with Diamonds]
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Stone Age]
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Diamonds!]
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Ice Bucket Challenge]
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Acquire Hardware]
-[14:26:27] [Server thread/INFO]: regsexl has made the advancement [Isn't It Iron Pick]
-[14:26:27] [Server thread/INFO]: regsexl[/127.135.38.35:32791] logged in with entity id 9574 at ([world]1.5, 79.0, 7.5)
-[14:26:35] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[14:27:18] [Server thread/INFO]: zSxhio issued server command: /plugins
-[14:27:58] [Async Chat Thread - #0/INFO]: [Not Secure] <SebasyTU_> a
-[14:28:05] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl s
-[14:28:08] [Async Chat Thread - #0/INFO]: [Not Secure] <regsexl> sebas quiere pito
-[14:28:15] [Server thread/INFO]: SebasyTU_ issued server command: /time set day
-[14:28:18] [Server thread/INFO]: zSxhio issued server command: /balancetop
-[14:28:24] [Server thread/INFO]: [DeadlyDisasters]: Level: 1 Water Geyser event starting at: -7 56 192 (regsexl)
-Tip: Geysers appear deep underground, the higher you are the longer it takes for them to reach you. (world)
-[14:29:36] [Server thread/INFO]: SebasyTU_ issued server command: /tab reload
-[14:29:36] [Server thread/INFO]: [TAB] Disabled in 2ms
-[14:29:36] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[14:29:36] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[14:29:36] [Server thread/INFO]: [TAB] Enabled in 39ms
-[14:29:51] [Server thread/INFO]: SebasyTU_ issued server command: /tpa regsexl
-[14:29:54] [Server thread/INFO]: regsexl issued server command: /tpaccept
-[14:30:21] [Server thread/INFO]: [DeadlyDisasters]: Level: 2 SinkHole event starting at: 52 72 355 (zSxhio)
-Tip: The ground around you becomes unstable, try placing blocks below you to stop falling. (world)
-[14:31:29] [Server thread/INFO]: zSxhio issued server command: /spawn
-[14:31:53] [Server thread/INFO]: SebasyTU_ issued server command: /function meteorite
-[14:32:01] [Server thread/INFO]: SebasyTU_ issued server command: /mem
-[14:32:02] [Server thread/INFO]: [DeadlyDisasters]: An extremely long Meteor Shower is about to begin
-Tip: Meteors land on the surface and cant penetrate many blocks, try going underground.
-[14:32:15] [Server thread/INFO]: SebasyTU_ was crushed by a meteor
-[14:32:20] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
-[14:33:00] [Server thread/INFO]: zSxhio was crushed by a meteor
-[14:33:02] [Server thread/INFO]: SebasyTU_ was crushed by a meteor
-[14:33:06] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
-[14:33:08] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:13] [Server thread/INFO]: regsexl issued server command: /tpaccept
-[14:33:14] [Server thread/INFO]: zSxhio was crushed by a meteor
-[14:33:19] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:20] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:21] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:29] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:30] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:30] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:31] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:31] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:31] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:32] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:32] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:33] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:33] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:34] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:34] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:35] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:35] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:36] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:36] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:37] [Server thread/INFO]: SebasyTU_ issued server command: /disasters disable meteorshowers world
-[14:33:37] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:37] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:38] [Server thread/INFO]: zSxhio issued server command: /tpa r
-[14:33:40] [Server thread/INFO]: regsexl issued server command: /tpaccept
-[14:33:50] [Server thread/INFO]: [DeadlyDisasters]: A short Solar Storm is about to begin
-Tip: Watch out, standing near heat sources can ignite you! During solarstorms all burning last twice as long.
-[14:34:01] [Server thread/INFO]: regsexl was crushed by a meteor
-[14:34:06] [Server thread/INFO]: SebasyTU_ was slain by Fire Phantom
-[14:34:07] [Server thread/INFO]: zSxhio has made the advancement [Cover Me with Diamonds]
-[14:34:09] [Server thread/INFO]: zSxhio has made the advancement [Diamonds!]
-[14:34:18] [Server thread/INFO]: Named entity Phantom['Fire Phantom'/20797, uuid='21c8e889-d6f8-4a0b-a97e-24c366721cf1', l='ServerLevel[world]', x=10.48, y=90.00, z=-11.51, cpos=[0, -1], tl=191, v=true] died: Fire Phantom suffocated in a wall
-[14:34:22] [Server thread/INFO]: SebasyTU_ was doomed to fall
-[14:34:27] [Server thread/INFO]: SebasyTU_ issued server command: /stop
-[14:34:27] [Server thread/INFO]: [SebasyTU_: Stopping the server]
-[14:34:27] [Server thread/INFO]: Stopping server
-[14:34:27] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
-[14:34:27] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
-[14:34:27] [Server thread/INFO]: [DeadlyDisasters] Disabling DeadlyDisasters v12.1
-[14:34:27] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
-[14:34:27] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
-[14:34:27] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
-[14:34:27] [Server thread/INFO]: [TAB] Disabled in 2ms
-[14:34:27] [Server thread/INFO]: [Craftorithm] Disabling Craftorithm v1.10.20-20250816
-[14:34:27] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
-[14:34:27] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
-[14:34:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[14:34:27] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[14:34:27] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[14:34:27] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
-[14:34:27] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[14:34:27] [Server thread/INFO]: [LuckPerms] Closing storage...
-[14:34:27] [Server thread/INFO]: [LuckPerms] Goodbye!
-[14:34:27] [Server thread/INFO]: Saving players
-[14:34:27] [Server thread/INFO]: zSxhio lost connection: Server closed
-[14:34:27] [Server thread/INFO]: zSxhio left the game
-[14:34:27] [Server thread/INFO]: regsexl lost connection: Server closed
-[14:34:27] [Server thread/INFO]: regsexl left the game
-[14:34:27] [Server thread/INFO]: SebasyTU_ lost connection: Server closed
-[14:34:27] [Server thread/INFO]: SebasyTU_ left the game
-[14:34:28] [Server thread/INFO]: Saving worlds
-[14:34:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:34:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[14:34:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[14:34:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 2699 block chunks, 2465 entity chunks, 0 poi chunks in world 'world' in 5.26s
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[14:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[14:34:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[14:34:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[14:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:34:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:34:33] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[14:34:33] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[14:34:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[14:34:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[14:36:25] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.9.5-f13ab4a1
+[14:36:25] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[14:36:25] [Server thread/INFO]: [MythicMobs] - 
+[14:36:25] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[14:36:25] [Server thread/INFO]: [MythicMobs] - 
+[14:36:25] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[14:36:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.despawnAllMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.MythicBukkit.disable(MythicBukkit.java:257)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:91)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[14:36:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:36:25] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:36:25] [Server thread/INFO]: [MythicMobs] ✗An error occurred while saving data
+[14:36:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.mobs.MobExecutor.saveCachedActiveMobs()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getMobManager()" is null
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.save(ConfigExecutor.java:479)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:508)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[14:36:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:36:25] [Server thread/WARN]: io.lumine.mythic.bukkit.utils.terminable.composite.CompositeClosingException: Exception(s) occurred whilst closing: [java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null]
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:38)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[14:36:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:36:25] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropExecutor.unload()" because the return value of "io.lumine.mythic.bukkit.MythicBukkit.getDropManager()" is null
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.core.config.ConfigExecutor.unload(ConfigExecutor.java:510)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.PluginModule.close(PluginModule.java:50)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.AbstractCompositeTerminable.close(AbstractCompositeTerminable.java:31)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.terminable.composite.CompositeTerminable.closeAndReportException(CompositeTerminable.java:63)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.close(LuminePlugin.java:100)
+[14:36:25] [Server thread/WARN]: 	at MythicMobs-5.9.5.jar//io.lumine.mythic.bukkit.utils.plugin.LuminePlugin.onDisable(LuminePlugin.java:95)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:286)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206)
+[14:36:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:651)
+[14:36:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:607)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:743)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:488)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:280)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1164)
+[14:36:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310)
+[14:36:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:36:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+26-e086064
+[14:36:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:36:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[14:36:26] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[14:36:26] [Server thread/INFO]: [Essentials] Using locale en
+[14:36:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:36:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:36:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[14:36:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:36:27] [Server thread/INFO]: [NametagEditX] Enabling NametagEditX v5.0.0
+[14:36:27] [Server thread/INFO]: [NametagEditX] Found LuckPerms! Hooking in.
+[14:36:27] [Server thread/INFO]: [NametagEditX] Found PlaceholderAPI! Hooking in.
+[14:36:27] [Server thread/INFO]: [MeteoritesPro] Enabling MeteoritesPro v1.5.3
+[14:36:27] [Server thread/INFO]:          __
+[14:36:27] [Server thread/INFO]:    |\/| |__)   MeteoritesPro v1.5.3
+[14:36:27] [Server thread/INFO]:    |  | |        by OliPulse
+[14:36:27] [Server thread/INFO]:  
+[14:36:27] [Server thread/INFO]: [MeteoritesPro] Invalid sound type: 'ENTITY_ENDER_DRAGON_GROWL' for guardian 'meteoriteguardian'
+[14:36:27] [Server thread/INFO]: [MeteoritesPro] Invalid particle type: 'SMOKE_LARGE' for particle '2'
+[14:36:27] [Server thread/INFO]: [Craftorithm] Enabling Craftorithm v1.10.20-20250816
+[14:36:27] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[14:36:27] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[14:36:27] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[14:36:27] [Server thread/INFO]: [TAB] Enabled in 305ms
+[14:36:27] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.14.5
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-es.yml as language file
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21.8...
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[14:36:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[14:36:28] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 971ms para completar
+[14:36:28] [Server thread/INFO]: [SimpleTPA] Enabling SimpleTPA v1.0
+[14:36:28] [Server thread/INFO]: [SimpleTPA] SimpleTPA Activated!
+[14:36:29] [Server thread/INFO]: [spark] Starting background profiler...
+[14:36:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[14:36:29] [Server thread/INFO]: Done preparing level "world" (6.281s)
+[14:36:29] [Server thread/INFO]: Running delayed init tasks
+[14:36:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[14:36:29] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:36:29] [Server thread/INFO]: [Craftorithm] Found Vault, hooked successfully.
+[14:36:29] [Server thread/INFO]: [Craftorithm] Detected a new version 1.10.21, please update to the latest version promptly!
+[14:36:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[14:36:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[14:36:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[14:36:29] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[14:36:29] [User Authenticator #0/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
+[14:36:29] [User Authenticator #1/INFO]: UUID of player regsexl is 7712c6cf-a2fb-3e2a-ac83-eb64ed372be2
+[14:36:30] [Server thread/INFO]: [Craftorithm] Plugin loaded successfully.
+[14:36:30] [Server thread/INFO]: Done (23.116s)! For help, type "help"
+[14:36:30] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] Checking for Updates ... 
+[14:36:30] [Server thread/INFO]: SebasyTU_ (/127.19.202.255:56831) lost connection: Disconnected
+[14:36:30] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, SkinsRestorer, Essentials]
+[14:36:30] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] No new version available
+[14:36:31] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:31] [Server thread/INFO]: regsexl joined the game
+[14:36:31] [Server thread/INFO]: regsexl[/127.135.38.35:36425] logged in with entity id 183 at ([world]57.69999998807907, 62.505111260216104, 23.69999998807907)
+[14:36:31] [User Authenticator #1/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
+[14:36:33] [Server thread/INFO]: SebasyTU_ joined the game
+[14:36:33] [Server thread/INFO]: SebasyTU_[/127.19.202.255:35631] logged in with entity id 225 at ([world]-5.5, 85.0, 10.5)
+[14:36:36] [User Authenticator #1/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
+[14:36:37] [Server thread/INFO]: zSxhio joined the game
+[14:36:37] [Server thread/INFO]: zSxhio has made the advancement [Cover Me with Diamonds]
+[14:36:37] [Server thread/INFO]: zSxhio has made the advancement [Diamonds!]
+[14:36:37] [Server thread/INFO]: zSxhio[/127.34.225.252:48241] logged in with entity id 439 at ([world]255.79395221873276, 50.0, 737.5698931582829)
+[14:36:47] [Server thread/INFO]: SebasyTU_ issued server command: /clear zSxhio
+[14:36:50] [Server thread/INFO]: regsexl issued server command: /tpa zSxhio
+[14:36:52] [Server thread/INFO]: SebasyTU_ issued server command: /clear regsexl
+[14:36:54] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[14:37:15] [Server thread/INFO]: SebasyTU_ issued server command: /tp 1001 80 1001
+[14:37:15] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[14:37:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[14:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7556ms or 151 ticks behind
+[14:37:32] [Server thread/WARN]: zSxhio moved too quickly! -6.090778864004733,9.79407503021303,9.204379262185853
+[14:37:40] [Server thread/INFO]: SebasyTU_ issued server command: /time set day
+[14:37:43] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl SebasyTU_
+[14:37:45] [Server thread/INFO]: SebasyTU_ issued server command: /tp zSxhio SebasyTU_
+[14:37:51] [Server thread/INFO]: SebasyTU_ issued server command: /kill regsexl
+[14:37:51] [Server thread/INFO]: regsexl died
+[14:38:00] [Server thread/INFO]: SebasyTU_ issued server command: /clear zSxhio
+[14:38:01] [Server thread/INFO]: regsexl issued server command: /tpa SebasyTU_
+[14:38:03] [Server thread/INFO]: zSxhio was slain by Zombie
+[14:38:05] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl SebasyTU_
+[14:38:12] [Server thread/INFO]: SebasyTU_ issued server command: /tp zSxhio SebasyTU_
+[14:38:25] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[14:39:26] [Server thread/INFO]: SebasyTU_ issued server command: /tpahere regsexl
+[14:39:31] [Server thread/INFO]: SebasyTU_ issued server command: /tpa regsexl
+[14:39:40] [User Authenticator #2/INFO]: UUID of player ghost17z is b6c45568-5856-342f-9a8a-5d525d56c0ea
+[14:39:42] [Server thread/INFO]: ghost17z joined the game
+[14:39:42] [Server thread/INFO]: ghost17z has made the advancement [Suit Up]
+[14:39:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ghost17z's group (tryhard) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[14:39:42] [Server thread/INFO]: ghost17z has made the advancement [Acquire Hardware]
+[14:39:42] [Server thread/INFO]: ghost17z has made the advancement [Diamonds!]
+[14:39:42] [Server thread/INFO]: ghost17z has made the advancement [Stone Age]
+[14:39:42] [Server thread/INFO]: ghost17z has made the advancement [Isn't It Iron Pick]
+[14:39:42] [Server thread/INFO]: ghost17z[/127.195.65.22:34689] logged in with entity id 3396 at ([world]-4.5, 114.0, -7.5)
+[14:39:50] [Server thread/INFO]: SebasyTU_ issued server command: /clear ghost17z
+[14:39:52] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:40:18] [Server thread/INFO]: SebasyTU_ issued server command: /clear ghost17z
+[14:40:48] [Server thread/INFO]: SebasyTU_ issued server command: /tp ghost17z 20002 80 2002
+[14:40:56] [Server thread/INFO]: regsexl has made the advancement [Getting an Upgrade]
+[14:41:54] [Server thread/INFO]: SebasyTU_ issued server command: /pl
+[14:42:07] [Server thread/INFO]: SebasyTU_ issued server command: /meteoritespro zSxhio
+[14:42:21] [Server thread/INFO]: SebasyTU_ issued server command: /mp start
+[14:42:30] [Server thread/INFO]: regsexl issued server command: /shop
+[14:42:38] [Server thread/INFO]: SebasyTU_ issued server command: /mp shootrandom
+[14:42:38] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:290 Z:186 !
+[14:42:46] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:43:24] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot regsexl
+[14:43:30] [Server thread/INFO]: SebasyTU_ issued server command: /mp shootrandom regsexl 1
+[14:43:48] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:44:00] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:44:04] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:44:34] [Server thread/INFO]: SebasyTU_ has made the advancement [Getting an Upgrade]
+[14:45:25] [Server thread/INFO]: regsexl issued server command: /shop
+[14:46:18] [Server thread/INFO]: Shop >> regsexl compró 3 x Bone(Mobs.page1.items.4) para 18.00$ con el comprar pantalla.
+[14:46:24] [Server thread/INFO]: regsexl has made the advancement [Best Friends Forever]
+[14:46:27] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:46:30] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:46:33] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:46:43] [Server thread/INFO]: ghost17z has made the advancement [Monster Hunter]
+[14:47:01] [Server thread/INFO]: ghost17z was shot by Pillager
+[14:47:08] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:47:10] [Server thread/INFO]: regsexl has made the advancement [Monster Hunter]
+[14:47:12] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:47:16] [Server thread/INFO]: SebasyTU_ tried to swim in lava
+[14:47:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[14:47:34] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[14:47:37] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:47:58] [Server thread/INFO]: ghost17z issued server command: /shop
+[14:48:01] [Server thread/INFO]: zSxhio was slain by Wolf
+[14:48:04] [Server thread/INFO]: Shop >> ghost17z compró 33 x Bread(Food.page1.items.2) para 519.75$ con el comprar pantalla.
+[14:48:05] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:48:05] [Server thread/INFO]: SebasyTU_ has made the advancement [Ice Bucket Challenge]
+[14:48:14] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:48:15] [Server thread/INFO]: regsexl issued server command: /tpdeny
+[14:48:15] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:48:15] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:48:16] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:48:38] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:48:40] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:48:40] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:48:49] [Server thread/INFO]: regsexl has made the advancement [The Parrots and the Bats]
+[14:49:07] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot regsexl 1
+[14:49:14] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot regsexl
+[14:49:19] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 1
+[14:49:19] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:853 Z:1658 !
+[14:49:20] [Server thread/INFO]: zSxhio lost connection: Timed out
+[14:49:20] [Server thread/INFO]: zSxhio left the game
+[14:49:39] [User Authenticator #3/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
+[14:49:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@7df9a531[id=1c890bda-bbf3-31c2-91aa-0cfd556c5635,name=zSxhio,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1NzIwMjY3OTA1OSwKICAicHJvZmlsZUlkIiA6ICJmYzAwZjNiMzdlNzY0MzQwOGY1ZGJlY2MzNTI4NTE1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbnJfR29ybmk0bmF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkYTEwNzA3NDZlMDVjNzNhMGE5MjZhZjNjMDlkNWZhNmM3MmM2OTAyMzgyODY5NTIxNTFjZmY5YjZiNDFhNjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGRlNGE4MTY4OGFkMThiNDllNzM1YTI3M2UwODZjMThmMWUzOTY2OTU2MTIzY2NiNTc0MDM0YzA2ZjVkMzM2IgogICAgfQogIH0KfQ==, signature=OWDtdNdL9OS3bktaPXZZcDbx+E1rol98Sp1vxjuzuuy3d/E60FXM9lveWjOb1lEjMH3S8zosnXwKu9uWeuowXVXp36G3hwXb0Tt5tJwpr1Bx3usIp570+w4OqoOtVf/i+7rDn6+o2JDqyHP5NanjOKN/StMn2IbEmBKmZqyJdU6d4h9XQa+eInU0X7v7LYaUw1ALnDPPhPckkHeecb142UhzgK3PeOnf4jSiUsj4Jn2fauOHSJIxc9TbZthjz7KF+gKknUbGcv7VWDtFafwMQhcrj95byrtS4dUvUWHQ1pTCN6+24kCnW2nxpESPPGuqGCT9DPm/2Nf/zoKJe7KPu+3P4DDMWeP9yPhMWhY7DwP4vAy5UsjevW/SgHKXCudRzkrYsoPoy8+zyIkr6TsyBBkhlFDUG9RXbKPF8RNRG3LA6PKM8rVBZGtW3ekespm//T0IVVVzFb41wPRm2u7puWioNIVxljjN8h1MuVla4TAm4bKD1SPTY34SygO0CmwbbwtqV6MTZz5SKAwWGrOTFP/cYBZXqQDlsd72PjvLSnIgLDxVklE7V/Mp+YReWxwt+CXVXA6fWr4FMFjrLDCx1iV16YRP4pJT9awohwVCnMCHlqgze7GhfOacZm1fTeMH3a98/Tdo8PN0pkFEv2FZaRVV68F9IdenqkBhUbWWfHY=]]}] lost connection: Disconnected
+[14:49:40] [User Authenticator #3/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
+[14:49:41] [Server thread/INFO]: zSxhio joined the game
+[14:49:41] [Server thread/INFO]: zSxhio[/127.34.225.252:50785] logged in with entity id 12559 at ([world]828.8953058101887, 73.0, 1660.6387125388442)
+[14:50:27] [Server thread/INFO]: SebasyTU_ issued server command: /tpa regsexl
+[14:50:33] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:50:36] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:50:38] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:50:38] [Server thread/WARN]: zSxhio moved too quickly! -7.1159163890872605,18.0,-2.6148452015233943
+[14:50:57] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot regsexl 2
+[14:51:03] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:51:03] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:855 Z:1655 !
+[14:51:43] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[14:51:47] [Server thread/INFO]: SebasyTU_ has made the advancement [Isn't It Iron Pick]
+[14:51:51] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[14:52:02] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 1
+[14:52:02] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:829 Z:1629 !
+[14:52:22] [Server thread/INFO]: zSxhio was blown up by Creeper
+[14:52:26] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:52:28] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:52:28] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:52:42] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 1
+[14:52:42] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:773 Z:1609 !
+[14:53:24] [Server thread/INFO]: SebasyTU_ issued server command: /v
+[14:53:27] [Server thread/INFO]: SebasyTU_ issued server command: /tp ghost17z
+[14:53:30] [Server thread/INFO]: SebasyTU_ issued server command: /fly
+[14:53:36] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[14:53:41] [Server thread/INFO]: SebasyTU_ issued server command: /tp ghost17z
+[14:54:20] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:54:20] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:784 Z:1600 !
+[14:54:29] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:54:29] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:784 Z:1600 !
+[14:55:14] [Server thread/INFO]: regsexl was slain by Meteorite Guardian
+[14:55:22] [Server thread/INFO]: regsexl issued server command: /tpa zSxhio
+[14:55:24] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:24] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:767 Z:1559 !
+[14:55:24] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[14:55:31] [Server thread/INFO]: zSxhio has made the advancement [Getting an Upgrade]
+[14:55:31] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:31] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:767 Z:1570 !
+[14:55:35] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:35] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:792 Z:1587 !
+[14:55:37] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:37] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1588 !
+[14:55:39] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:39] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1588 !
+[14:55:41] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:55:41] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1588 !
+[14:55:53] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[14:56:04] [Server thread/INFO]: SebasyTU_ issued server command: /tp ghost17z regsexl
+[14:56:10] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:56:19] [Server thread/INFO]: SebasyTU_ issued server command: /v
+[14:56:21] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[14:56:32] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[14:56:36] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:56:39] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[14:56:39] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:56:41] [Server thread/INFO]: regsexl was slain by Meteorite Guardian
+[14:56:51] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:56:51] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:56:55] [Server thread/INFO]: regsexl issued server command: /tpa zSxhio
+[14:56:58] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 1
+[14:56:58] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:793 Z:1605 !
+[14:56:59] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[14:57:02] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[14:57:02] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:57:02] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:57:05] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:57:06] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:57:06] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:57:07] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:57:09] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:57:09] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:57:14] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:57:14] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:57:19] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[14:57:19] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:793 Z:1605 !
+[14:57:21] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:29] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:30] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:30] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:31] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:31] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:33] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:34] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:35] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:36] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:37] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:37] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:39] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:43] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[14:57:57] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:58:06] [Server thread/INFO]: SebasyTU_ has made the advancement [Diamonds!]
+[14:58:10] [Server thread/INFO]: zSxhio issued server command: /tpa r
+[14:58:16] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[14:59:02] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[14:59:45] [Server thread/INFO]: SebasyTU_ issued server command: /enchant sharpness 5
+[14:59:48] [Server thread/INFO]: SebasyTU_ was slain by Meteorite Guardian
+[14:59:51] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[14:59:52] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[14:59:56] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[15:00:27] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[15:00:28] [Server thread/INFO]: SebasyTU_ was slain by Meteorite Guardian
+[15:00:28] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:00:32] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[15:00:33] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[15:00:34] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[15:00:37] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[15:00:41] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[15:00:49] [Server thread/INFO]: SebasyTU_ was slain by Meteorite Guardian
+[15:00:54] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[15:01:12] [Server thread/INFO]: ghost17z issued server command: /tpa regsexl
+[15:01:16] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:01:17] [Server thread/INFO]: regsexl issued server command: /tpaccept
+[15:01:25] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[15:01:27] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[15:01:38] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:01:42] [Server thread/INFO]: ghost17z has made the advancement [Ice Bucket Challenge]
+[15:02:01] [Server thread/INFO]: SebasyTU_ issued server command: /enchantment sharpness X
+[15:02:13] [Server thread/INFO]: SebasyTU_ issued server command: /enchantment sharpness 10
+[15:02:26] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[15:02:30] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:02:36] [Server thread/INFO]: zSxhio issued server command: /sellall
+[15:02:47] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:02:53] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:02:56] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:03:01] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[15:03:06] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[15:03:08] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[15:06:09] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:06:20] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:06:22] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:06:26] [Server thread/INFO]: Named entity WitherSkeleton['Meteorite Guardian'/25954, uuid='de407b3f-dab6-4f0f-a748-f92bf237d813', l='ServerLevel[world]', x=761.60, y=69.00, z=1567.65, cpos=[47, 97], tl=2514, v=true] died: Meteorite Guardian was slain by ghost17z using [Alien Axe]
+[15:06:37] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:226 Z:-388 !
+[15:06:51] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:06:56] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:08:37] [Server thread/INFO]: zSxhio issued server command: /pv 1
+[15:08:40] [Server thread/INFO]: zSxhio issued server command: /papi
+[15:09:05] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:09:11] [Server thread/INFO]: Shop >> ghost17z compró 64 x Bread(Food.page1.items.2) para 1,008.00$ con el comprar pantalla.
+[15:09:13] [Server thread/INFO]: zSxhio issued server command: /shop
+[15:09:17] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:09:29] [Server thread/INFO]: Shop >> ghost17z compró 4 x Lava Bucket(Miscellaneous.page1.items.15) para 73.60$ con el comprar pantalla.
+[15:09:29] [Server thread/INFO]: ghost17z has made the advancement [Hot Stuff]
+[15:09:33] [Server thread/INFO]: zSxhio has made the advancement [Hot Stuff]
+[15:10:05] [Server thread/INFO]: SebasyTU_ has made the advancement [Monster Hunter]
+[15:10:08] [Server thread/INFO]: zSxhio issued server command: /shop
+[15:10:37] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:11:23] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[15:11:25] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:11:27] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:11:30] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[15:11:32] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[15:11:57] [Server thread/INFO]: Named entity WitherSkeleton['Meteorite Guardian'/29068, uuid='f65856d6-8a9c-4b9f-b02b-f8ac5cfff6b5', l='ServerLevel[world]', x=796.59, y=57.00, z=1572.35, cpos=[49, 98], tl=686, v=true] died: Meteorite Guardian was slain by ghost17z
+[15:12:21] [Server thread/INFO]: ghost17z was slain by Meteorite Guardian
+[15:12:25] [Server thread/INFO]: ghost17z issued server command: /tpa zSxhio
+[15:12:27] [Server thread/INFO]: zSxhio issued server command: /tpaccept
+[15:12:42] [Server thread/INFO]: SebasyTU_ issued server command: /mp shoot 2
+[15:12:42] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:822 Z:708 !
+[15:13:31] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:13:39] [Server thread/INFO]: Shop >> ghost17z compró 1 x Enchanted Book(Enchanting.page1.items.14) para 705.60$ con el comprar pantalla.
+[15:13:42] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:13:49] [Server thread/INFO]: zSxhio issued server command: /shop
+[15:14:02] [Server thread/INFO]: Shop >> ghost17z compró 4 x Iron Block(Ores.page1.items.15) para 208.40$ con el comprar pantalla.
+[15:14:16] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:14:20] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:14:21] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:14:25] [Server thread/INFO]: Named entity WitherSkeleton['Meteorite Guardian'/29544, uuid='ffedf463-94b7-43d6-a678-29584a1de34a', l='ServerLevel[world]', x=784.35, y=65.00, z=1570.36, cpos=[49, 98], tl=2632, v=true] died: Meteorite Guardian was slain by ghost17z using [Alien Axe]
+[15:14:28] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:14:43] [Server thread/INFO]: Shop >> SebasyTU_ compró 4 x Diamond Block(Ores.page1.items.10) para 1,984.52$ con el comprar pantalla.
+[15:14:48] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:15:25] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:15:43] [User Authenticator #4/INFO]: UUID of player SpookyXitss is dc09f79f-4bd8-3611-86b7-72d9c8d28fe5
+[15:15:44] [Server thread/INFO]: SpookyXitss joined the game
+[15:15:44] [Server thread/INFO]: SpookyXitss[/127.126.231.114:35397] logged in with entity id 30984 at ([world]0.5, 79.0, 7.5)
+[15:15:57] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:16:11] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:16:15] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:16:15] [Server thread/WARN]: zSxhio moved too quickly! 34.3035643780936,-5.0,13.747056110746144
+[15:16:24] [Server thread/INFO]: SpookyXitss was slain by Zombie
+[15:17:08] [Server thread/INFO]: regsexl has made the advancement [Hot Stuff]
+[15:17:59] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:18:24] [Server thread/INFO]: Shop >> SebasyTU_ compró 3 x Diamond Block(Ores.page1.items.10) para 1,488.38$ con el comprar pantalla.
+[15:18:40] [Server thread/INFO]: SpookyXitss issued server command: /tp ghost27
+[15:18:40] [Server thread/INFO]: [Essentials] SpookyXitss was denied access to command.
+[15:18:40] [Server thread/INFO]: ghost17z has made the advancement [Cover Me with Diamonds]
+[15:18:44] [Server thread/INFO]: zSxhio issued server command: /msg asd
+[15:18:44] [Server thread/INFO]: [Essentials] zSxhio was denied access to command.
+[15:19:11] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghost17z
+[15:19:13] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:19:29] [Server thread/INFO]: SebasyTU_ issued server command: /lp group default permission set essentials.tpa
+[15:19:59] [Server thread/INFO]: SpookyXitss has made the advancement [Isn't It Iron Pick]
+[15:20:10] [Server thread/INFO]: regsexl issued server command: /shop
+[15:20:16] [Server thread/INFO]: Shop >> regsexl compró 3 x Sugar Cane(Farming.page1.items.25) para 0.30$ con el comprar pantalla.
+[15:20:33] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:20:57] [Server thread/INFO]: SpookyXitss has made the advancement [Stone Age]
+[15:20:59] [Server thread/INFO]: Shop >> ghost17z compró 1 x Elytra(Miscellaneous.page1.items.8) para 2,415.20$ con el comprar pantalla.
+[15:20:59] [Server thread/INFO]: ghost17z has reached the goal [Sky's the Limit]
+[15:21:00] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:21:03] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:21:08] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[15:21:10] [Server thread/INFO]: Shop >> zSxhio vendido 18x Diamond§r(Ores.page1.items.9) por 236.34$§r con el interfaz de Venta.
+[15:21:25] [Server thread/INFO]: Shop >> ghost17z compró 7 x Firework Rocket(Miscellaneous.page1.items.999) para 2,121.00$ con el comprar pantalla.
+[15:21:29] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:21:38] [Server thread/INFO]: Shop >> ghost17z compró 17 x Experience Bottle(Miscellaneous.page1.items.11) para 1,834.98$ con el comprar pantalla.
+[15:21:49] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:21:55] [Server thread/INFO]: Shop >> ghost17z compró 1 x Enchanted Book(Enchanting.page1.items.9) para 972.41$ con el comprar pantalla.
+[15:22:25] [Server thread/INFO]: SpookyXitss has made the advancement [Suit Up]
+[15:22:27] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:22:27] [Server thread/INFO]: SpookyXitss has made the advancement [Diamonds!]
+[15:22:30] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[15:22:33] [Server thread/INFO]: SpookyXitss has made the advancement [Acquire Hardware]
+[15:22:34] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:23:24] [Server thread/INFO]: regsexl issued server command: /shop
+[15:23:27] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:23:42] [Server thread/INFO]: Shop >> SebasyTU_ compró 4 x Iron Block(Ores.page1.items.15) para 208.40$ con el comprar pantalla.
+[15:23:45] [Server thread/INFO]: SebasyTU_ has made the advancement [Acquire Hardware]
+[15:23:52] [Server thread/INFO]: Shop >> regsexl compró 1 x Elytra(Miscellaneous.page1.items.8) para 2,415.20$ con el comprar pantalla.
+[15:23:52] [Server thread/INFO]: regsexl has reached the goal [Sky's the Limit]
+[15:24:03] [Server thread/INFO]: regsexl issued server command: /shop
+[15:24:05] [Server thread/INFO]: SebasyTU_ issued server command: /shopç
+[15:24:08] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:24:10] [Server thread/INFO]: Shop >> regsexl compró 37 x Gunpowder(Mobs.page1.items.10) para 573.50$ con el comprar pantalla.
+[15:24:17] [Server thread/INFO]: regsexl issued server command: /shop
+[15:24:19] [Server thread/INFO]: SpookyXitss issued server command: /tpa gho
+[15:24:21] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:24:23] [Server thread/INFO]: Shop >> regsexl compró 49 x Sugar Cane(Farming.page1.items.25) para 4.90$ con el comprar pantalla.
+[15:24:30] [Server thread/INFO]: Shop >> SebasyTU_ compró 1 x Enchanted Book(Enchanting.page1.items.14) para 705.60$ con el comprar pantalla.
+[15:24:43] [Server thread/INFO]: SebasyTU_ issued server command: /experience add SebasyTU_ 200 levels
+[15:24:43] [Server thread/INFO]: [SebasyTU_: Gave 200 experience levels to SebasyTU_]
+[15:24:54] [Server thread/INFO]: SebasyTU_ issued server command: /enchant unbreaking 3
+[15:25:03] [Server thread/INFO]: SebasyTU_ issued server command: /enchant efficiency 5
+[15:25:06] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:25:21] [Server thread/INFO]: Shop >> SebasyTU_ compró 1 x Elytra(Miscellaneous.page1.items.8) para 2,415.20$ con el comprar pantalla.
+[15:25:21] [Server thread/INFO]: SebasyTU_ has reached the goal [Sky's the Limit]
+[15:25:36] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:25:50] [Server thread/INFO]: SebasyTU_ issued server command: /eco give SebasyTU_ 10000
+[15:25:50] [Server thread/INFO]: Shop >> ghost17z compró 2 x Shulker Shell(Miscellaneous.page1.items.29) para 14.00$ con el comprar pantalla.
+[15:25:57] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[15:26:28] [Server thread/INFO]: Shop >> SebasyTU_ compró 41 x Firework Rocket(Miscellaneous.page1.items.999) para 12,423.00$ con el comprar pantalla.
+[15:26:49] [Server thread/INFO]: SebasyTU_ issued server command: /v
+[15:27:01] [Server thread/INFO]: SpookyXitss issued server command: /shop
+[15:27:09] [Server thread/INFO]: SebasyTU_ issued server command: /tp ghost17z
+[15:27:09] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[15:27:20] [Server thread/INFO]: regsexl issued server command: /shop
+[15:27:30] [Server thread/INFO]: SebasyTU_ issued server command: /tp SpookyXitss
+[15:27:30] [Server thread/INFO]: Shop >> regsexl compró 3 x Totem Of Undying(Miscellaneous.page1.items.36) para 300.00$ con el comprar pantalla.
+[15:27:45] [Server thread/INFO]: SebasyTU_ issued server command: /baltop
+[15:27:52] [Server thread/INFO]: Shop >> SpookyXitss compró 1 x Shulker Shell(Miscellaneous.page1.items.29) para 7.00$ con el comprar pantalla.
+[15:27:53] [Server thread/INFO]: Shop >> SpookyXitss compró 1 x Shulker Shell(Miscellaneous.page1.items.29) para 7.00$ con el comprar pantalla.
+[15:28:10] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[15:28:12] [Server thread/INFO]: Shop >> zSxhio vendido 20x Lapis Lazuli§r(Ores.page1.items.18) por 36.20$§r con el interfaz de Venta.
+[15:28:51] [Server thread/INFO]: SebasyTU_ issued server command: /lp group default permission set essentials.sethome true
+[15:29:02] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[15:29:04] [Server thread/INFO]: regsexl has made the advancement [Sweet Dreams]
+[15:29:12] [Server thread/INFO]: SebasyTU_ issued server command: /v
+[15:29:24] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[15:29:29] [Server thread/INFO]: regsexl issued server command: /shop
+[15:29:30] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghos
+[15:29:38] [Server thread/INFO]: Shop >> regsexl compró 49 x Shulker Shell(Miscellaneous.page1.items.29) para 343.00$ con el comprar pantalla.
+[15:29:48] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[15:29:49] [Server thread/INFO]: Shop >> zSxhio vendido 47x Lapis Lazuli§r(Ores.page1.items.18) por 85.07$§r con el interfaz de Venta.
+[15:30:29] [Server thread/INFO]: regsexl issued server command: /shop
+[15:30:33] [Server thread/INFO]: Shop >> regsexl compró 17 x Lapis Lazuli(Ores.page1.items.18) para 122.74$ con el comprar pantalla.
+[15:31:07] [Server thread/INFO]: regsexl issued server command: /shop
+[15:31:13] [Server thread/INFO]: SpookyXitss was doomed to fall by Zombie
+[15:31:14] [Server thread/INFO]: zSxhio issued server command: /bal
+[15:31:27] [Server thread/INFO]: Shop >> regsexl compró 64 x Golden Carrot(Food.page1.items.8) para 780.80$ con el comprar pantalla.
+[15:31:30] [Server thread/INFO]: Shop >> regsexl compró 64 x Golden Carrot(Food.page1.items.8) para 780.80$ con el comprar pantalla.
+[15:31:52] [Server thread/INFO]: zSxhio issued server command: /bal
+[15:31:54] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[15:32:04] [Server thread/INFO]: Shop >> zSxhio vendido 3x Pink Petals§r(Dyes.page1.items.25), 5x Gravel§r(Blocks.page3.items.111), 2x Leather§r(Farming.page1.items.15), 2x Porkchop§r(Food.page1.items.19), 7x Cobblestone§r(Blocks.page1.items.51), 17x Diamond§r(Ores.page1.items.9), 5x Tuff§r(Blocks.page4.items.188), 2x Diorite§r(Blocks.page2.items.101), 2x Rotten Flesh§r(Mobs.page1.items.17), 2x Andesite§r(Blocks.page1.items.12), 31x Cobbled Deepslate§r(Blocks.page2.items.94) por 265.94$§r con el interfaz de Venta.
+[15:32:08] [Server thread/INFO]: regsexl issued server command: /shop
+[15:32:30] [Async Chat Thread - #0/INFO]: [Not Secure] <ghost17z> sebas{
+[15:32:40] [Async Chat Thread - #0/INFO]: [Not Secure] <regsexl> sebasss
+[15:33:01] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghost
+[15:33:05] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:33:45] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:33:46] [Server thread/INFO]: regsexl issued server command: /shop
+[15:33:47] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:34:28] [Server thread/INFO]: Shop >> regsexl compró 18 x Experience Bottle(Miscellaneous.page1.items.11) para 1,942.92$ con el comprar pantalla.
+[15:34:51] [Server thread/INFO]: regsexl issued server command: /shop
+[15:34:52] [Async Chat Thread - #2/INFO]: [Not Secure] <SebasyTU_> ahora vuelvo
+[15:34:53] [Server thread/INFO]: SebasyTU_ lost connection: Disconnected
+[15:34:53] [Server thread/INFO]: SebasyTU_ left the game
+[15:34:57] [Server thread/INFO]: Shop >> regsexl compró 17 x Lapis Lazuli(Ores.page1.items.18) para 122.74$ con el comprar pantalla.
+[15:35:45] [Server thread/INFO]: regsexl issued server command: /shop
+[15:36:22] [Async Chat Thread - #4/INFO]: [Not Secure] <regsexl> adriana saltee
+[15:36:37] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:-486 Z:36 !
+[15:36:49] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:37:01] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:37:14] [Server thread/INFO]: SpookyXitss issued server command: /tpa regsexl
+[15:37:16] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:37:27] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghost
+[15:37:35] [Async Chat Thread - #6/INFO]: [Not Secure] <SpookyXitss> zSxhio
+[15:37:37] [Server thread/INFO]: Shop >> ghost17z compró 3 x Sugar Cane(Farming.page1.items.25) para 0.30$ con el comprar pantalla.
+[15:37:42] [Server thread/INFO]: SpookyXitss issued server command: /tpa
+[15:37:43] [Async Chat Thread - #6/INFO]: [Not Secure] <regsexl> el es gay
+[15:37:47] [Async Chat Thread - #6/INFO]: [Not Secure] <zSxhio> .
+[15:37:50] [Server thread/INFO]: SpookyXitss issued server command: /tpa zSxhio
+[15:38:04] [Server thread/INFO]: SpookyXitss issued server command: /kill
+[15:38:04] [Server thread/INFO]: [Essentials] SpookyXitss was denied access to command.
+[15:38:30] [Server thread/INFO]: ghost17z has made the advancement [Enchanter]
+[15:38:32] [Server thread/INFO]: SpookyXitss lost connection: Disconnected
+[15:38:32] [Server thread/INFO]: SpookyXitss left the game
+[15:38:51] [User Authenticator #5/INFO]: UUID of player SpookyXitss is dc09f79f-4bd8-3611-86b7-72d9c8d28fe5
+[15:38:51] [Server thread/INFO]: SpookyXitss joined the game
+[15:38:51] [Server thread/INFO]: SpookyXitss[/127.126.231.114:57333] logged in with entity id 41675 at ([world]602.6258483562333, -60.0, 1813.32785195751)
+[15:38:57] [Server thread/INFO]: zSxhio has made the advancement [Enchanter]
+[15:39:01] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghos
+[15:39:04] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:39:51] [Server thread/INFO]: zSxhio burned to death
+[15:39:53] [Server thread/INFO]: SpookyXitss has made the advancement [Hot Stuff]
+[15:39:54] [Server thread/INFO]: SpookyXitss has made the advancement [Cover Me with Diamonds]
+[15:39:56] [Server thread/INFO]: SpookyXitss burned to death
+[15:39:59] [Server thread/INFO]: zSxhio issued server command: /tpa g
+[15:40:07] [Server thread/INFO]: SpookyXitss issued server command: /tpa ghos
+[15:40:10] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:40:14] [Server thread/INFO]: ghost17z issued server command: /tpaccept
+[15:41:09] [Server thread/INFO]: SpookyXitss was blown up by Creeper
+[15:41:17] [Server thread/INFO]: SpookyXitss issued server command: /tpa
+[15:43:01] [Server thread/INFO]: zSxhio issued server command: /shop
+[15:43:35] [Server thread/INFO]: zSxhio issued server command: /balance
+[15:43:38] [Server thread/INFO]: zSxhio issued server command: /balancetop
+[15:44:15] [Server thread/INFO]: regsexl issued server command: /shop
+[15:44:43] [Server thread/INFO]: Shop >> regsexl compró 2 x Amethyst Shard(Ores.page1.items.2) para 2.64$ con el comprar pantalla.
+[15:44:49] [Server thread/INFO]: regsexl issued server command: /shop
+[15:44:58] [Server thread/INFO]: Shop >> regsexl compró 1 x Copper Ingot(Ores.page1.items.7) para 0.92$ con el comprar pantalla.
+[15:45:11] [Server thread/INFO]: regsexl issued server command: /shop
+[15:45:44] [Server thread/INFO]: ghost17z issued server command: /shop
+[15:45:53] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Shard(Ores.page1.items.2) para 21.12$ con el pantalla de venta.
+[15:45:53] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Shard(Ores.page1.items.2) para 21.12$ con el pantalla de venta.
+[15:45:54] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Shard(Ores.page1.items.2) para 21.12$ con el pantalla de venta.
+[15:45:55] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Shard(Ores.page1.items.2) para 21.12$ con el pantalla de venta.
+[15:46:00] [Server thread/INFO]: regsexl issued server command: /shop
+[15:46:01] [Server thread/INFO]: Shop >> ghost17z vendido 18 x Amethyst Shard(Ores.page1.items.2) para 5.94$ con el pantalla de venta.
+[15:46:04] [Server thread/INFO]: Shop >> regsexl compró 1 x Copper Ingot(Ores.page1.items.7) para 0.92$ con el comprar pantalla.
+[15:46:07] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Block(Ores.page1.items.1) para 88.32$ con el pantalla de venta.
+[15:46:08] [Server thread/INFO]: Shop >> ghost17z vendido 64 x Amethyst Block(Ores.page1.items.1) para 88.32$ con el pantalla de venta.
+[15:46:17] [Server thread/INFO]: Shop >> ghost17z vendido 24 x Amethyst Block(Ores.page1.items.1) para 33.12$ con el pantalla de venta.
+[15:46:24] [Server thread/INFO]: Shop >> ghost17z vendido 1 x Amethyst Block(Ores.page1.items.1) para 1.38$ con el pantalla de venta.
+[15:46:25] [Server thread/INFO]: zSxhio issued server command: /balancetop
+[15:47:35] [Server thread/INFO]: zSxhio issued server command: /sethome
+[15:47:35] [Server thread/INFO]: [Essentials] zSxhio was denied access to command.
+[15:48:50] [Server thread/INFO]: Named entity WitherSkeleton['Meteorite Guardian'/17983, uuid='3e11c60d-c3c1-4497-b804-d467b21157ba', l='ServerLevel[world]', x=838.65, y=71.00, z=1591.35, cpos=[52, 99], tl=64771, v=true] died: Meteorite Guardian was slain by zSxhio using [Alien Axe]
+[15:48:57] [Server thread/INFO]: zSxhio was slain by Meteorite Guardian
+[15:49:08] [Server thread/INFO]: SpookyXitss issued server command: /shop
+[15:49:11] [Server thread/WARN]: zSxhio moved too quickly! 6.430670062282217,-13.833890739061786,2.6897014943730984
+[15:49:11] [Server thread/INFO]: regsexl issued server command: /shop
+[15:49:11] [Server thread/WARN]: ghost17z moved too quickly! -10.578141879711097,-27.135704364852387,0.8817789600504966
+[15:50:42] [Server thread/INFO]: regsexl issued server command: /shop
+[15:51:00] [Server thread/INFO]: zSxhio issued server command: /shop
+[15:51:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:04] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:04] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:04] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:05] [Server thread/INFO]: Shop >> zSxhio compró 1 x Cooked Beef(Food.page1.items.11) para 6.30$ con el comprar pantalla.
+[15:51:35] [Server thread/INFO]: ghost17z lost connection: Disconnected
+[15:51:35] [Server thread/INFO]: ghost17z left the game
+[15:51:41] [Server thread/INFO]: regsexl issued server command: /shop
+[15:51:59] [Server thread/WARN]: zSxhio was kicked for floating too long!
+[15:51:59] [Server thread/INFO]: zSxhio lost connection: Flying is not enabled on this server
+[15:51:59] [Server thread/INFO]: zSxhio left the game
+[15:52:13] [User Authenticator #6/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
+[15:52:14] [Server thread/INFO]: zSxhio joined the game
+[15:52:14] [Server thread/INFO]: zSxhio[/127.34.225.252:40345] logged in with entity id 53443 at ([world]204.35629896831733, 71.78947876269956, 480.1207341171698)
+[15:52:56] [Server thread/INFO]: Stopping the server
+[15:52:56] [Server thread/INFO]: Stopping server
+[15:52:56] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[15:52:56] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
+[15:52:56] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[15:52:56] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
+[15:52:56] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[15:52:56] [Server thread/INFO]: [TAB] Disabled in 3ms
+[15:52:56] [Server thread/INFO]: [Craftorithm] Disabling Craftorithm v1.10.20-20250816
+[15:52:56] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[15:52:56] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
+[15:52:56] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
+[15:52:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:52:56] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[15:52:56] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:52:56] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[15:52:56] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:52:56] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:52:56] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:52:56] [Server thread/INFO]: Saving players
+[15:52:56] [Server thread/INFO]: regsexl lost connection: Server closed
+[15:52:56] [Server thread/INFO]: regsexl left the game
+[15:52:56] [Server thread/INFO]: SpookyXitss lost connection: Server closed
+[15:52:56] [Server thread/INFO]: SpookyXitss left the game
+[15:52:56] [Server thread/INFO]: zSxhio lost connection: Server closed
+[15:52:56] [Server thread/INFO]: zSxhio left the game
+[15:52:57] [Server thread/INFO]: Saving worlds
+[15:52:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:52:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:52:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:52:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Saved 2795 block chunks, 2165 entity chunks, 0 poi chunks in world 'world' in 5.14s
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:53:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:53:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:53:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:53:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:53:02] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:53:02] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:53:02] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:53:02] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
