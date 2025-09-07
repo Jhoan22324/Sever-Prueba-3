@@ -1,0 +1,12 @@
+type: shaped
+shape:
+- aba
+- cdc
+- aba
+source:
+  a: minecraft:diamond_block
+  b: minecraft:lava_bucket
+  c: minecraft:obsidian
+  d: minecraft:diamond_sword
+unlock: true
+result: items:gui_items:2ffbd481-bdd6-4d04-af30-785f353534cf

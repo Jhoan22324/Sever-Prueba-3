@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.19.202.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: false
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757215893441
+  login: 1757215324656
+money: '10000'
+last-account-name: SebasyTU_
+logoutlocation:
+  world: 7db02c2e-08b6-4528-b58a-1d55a9ca2484
+  world-name: world
+  x: -448.0194391173515
+  y: 67.0
+  z: -974.8873418507723
+  yaw: -176.16567993164062
+  pitch: 24.66178321838379
+lastlocation:
+  world: 7db02c2e-08b6-4528-b58a-1d55a9ca2484
+  world-name: world
+  x: 156.30291786860238
+  y: 95.0
+  z: -499.06028282850986
+  yaw: -67.89472198486328
+  pitch: 40.79574203491211

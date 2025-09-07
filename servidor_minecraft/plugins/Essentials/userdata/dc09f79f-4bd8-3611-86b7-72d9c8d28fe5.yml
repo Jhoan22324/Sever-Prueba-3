@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.209.210.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757205993013
+  login: 1757205950849
+money: '10000'
+last-account-name: SpookyXitss
+logoutlocation:
+  world: 7db02c2e-08b6-4528-b58a-1d55a9ca2484
+  world-name: world
+  x: -6.3442947069305955
+  y: 66.79673560066871
+  z: -1.684046164607627
+  yaw: 145.5004119873047
+  pitch: 11.100028038024902

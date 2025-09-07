@@ -1,0 +1,111 @@
+data:
+  version: 12.1
+  timerValueMemory: 120
+  entries: 10
+  notify: false
+  firstStart: false
+  lang: 0
+  catalogFetchCooldown: 141880
+  currentConfig: DEFAULT
+  favored: 'null'
+  disliked: 'null'
+  catalogVersion: 3
+customentities: {}
+metrics:
+  occurred:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  spawned:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  destroyed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  killed:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+timers:
+  7db02c2e-08b6-4528-b58a-1d55a9ca2484:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 238
+  c1047e55-c7b2-4fa1-b517-851bf9b39699:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 163
+  f47a4e96-b38c-4e4d-aba3-41f3bc573381:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 167
+  7e0c514f-fb8e-4cce-9b7c-ab6f0d8f86ec:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 159
+  a4c8d1f6-0d0b-4277-a35a-a1bfa848729b:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 165
+  c8e4c941-02d5-4d73-9d2d-a5cb4aba9b49:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 135
+  e7d3670b-3eee-4df8-990e-e2bb27516abc:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 155
+  4e9b1ea3-5065-47eb-abc4-ed93b8b06499:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 142
+  1da3635b-7dbd-429d-ac42-b1c94238faa1:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 125
+  4ba88587-559f-45b8-b78d-042b7b6a068f:
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 159
