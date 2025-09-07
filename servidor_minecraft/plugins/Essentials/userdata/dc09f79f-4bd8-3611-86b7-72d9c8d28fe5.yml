@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757260376843
-  login: 1757259531857
-money: '9986.0'
+  logout: 1757263281685
+  login: 1757260606458
+money: '7173.75'
 last-account-name: SpookyXitss
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 54.6410394051773
+  x: 55.69999998807907
   y: 63.0
-  z: 27.08287126446838
-  yaw: -150.926025390625
-  pitch: 19.19999885559082
+  z: 29.30000001192093
+  yaw: 94.20014190673828
+  pitch: 6.600002765655518

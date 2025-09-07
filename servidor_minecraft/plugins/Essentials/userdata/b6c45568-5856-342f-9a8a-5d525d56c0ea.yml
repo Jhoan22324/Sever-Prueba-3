@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757260295977
-  login: 1757255982491
-money: '1009.18999999999999996'
+  logout: 1757267858377
+  login: 1757265281577
+money: '661.32999999999999796'
 last-account-name: ghost17z
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: -745.5153127680393
-  y: 74.875
-  z: 1883.300000011921
-  yaw: 56.10479736328125
-  pitch: 40.64992141723633
+  x: -7543.874251122446
+  y: 121.0
+  z: -5578.462885119305
+  yaw: -85.65509033203125
+  pitch: 65.84996032714844
 lastlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
