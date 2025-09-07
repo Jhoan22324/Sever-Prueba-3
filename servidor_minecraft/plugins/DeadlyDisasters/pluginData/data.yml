@@ -5,7 +5,7 @@ data:
   notify: false
   firstStart: false
   lang: 0
-  catalogFetchCooldown: 140365
+  catalogFetchCooldown: 139227
   currentConfig: DEFAULT
   favored: 'null'
   disliked: 'null'
@@ -25,12 +25,12 @@ metrics:
   - 0
   - 0
   - 0
+  - 5
   - 0
   - 0
   - 0
   - 0
-  - 0
-  - 3
+  - 4
   spawned:
   - 0
   - 0
@@ -44,12 +44,12 @@ metrics:
   - 0
   - 0
   - 0
+  - 5
   - 0
   - 0
   - 0
   - 0
-  - 0
-  - 3
+  - 4
   destroyed:
   - 0
   - 0
@@ -63,12 +63,12 @@ metrics:
   - 0
   - 0
   - 0
+  - 5
   - 0
   - 0
   - 0
   - 0
-  - 0
-  - 3
+  - 4
   killed:
   - 0
   - 0
@@ -82,12 +82,12 @@ metrics:
   - 0
   - 0
   - 0
+  - 5
   - 0
   - 0
   - 0
   - 0
-  - 0
-  - 3
+  - 4
 timers:
   7db02c2e-08b6-4528-b58a-1d55a9ca2484:
     77a390da-81bb-3a9a-83b6-98e9f9115325: 238
@@ -112,9 +112,12 @@ timers:
   a48735db-e111-4706-862b-b0941b5dcef9:
     77a390da-81bb-3a9a-83b6-98e9f9115325: 159
     1c890bda-bbf3-31c2-91aa-0cfd556c5635: 120
+    7712c6cf-a2fb-3e2a-ac83-eb64ed372be2: 179
   fa1e2bb5-4812-48a0-bed9-570875c1a9cd:
     77a390da-81bb-3a9a-83b6-98e9f9115325: 125
     1c890bda-bbf3-31c2-91aa-0cfd556c5635: 156
+    7712c6cf-a2fb-3e2a-ac83-eb64ed372be2: 175
   378778be-ef0d-45f2-b0a3-095d71861a60:
-    77a390da-81bb-3a9a-83b6-98e9f9115325: 157
-    1c890bda-bbf3-31c2-91aa-0cfd556c5635: 30
+    77a390da-81bb-3a9a-83b6-98e9f9115325: 93
+    1c890bda-bbf3-31c2-91aa-0cfd556c5635: 97
+    7712c6cf-a2fb-3e2a-ac83-eb64ed372be2: 81

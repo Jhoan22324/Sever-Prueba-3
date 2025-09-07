@@ -8,6 +8,8 @@ header-footer:
     - ""
   footer:
     - ""
+    - "&f&l Memoria: %memory-used% MB / %memory-max% MB"
+    - ""
     - "&c%statistic_deaths%☠ &f| &9%statistic_player_kills%⚔"
     - "<gradient:#55FFFF:#FFFFFF>─────────────────────</gradient>"
   disable-condition: '%world%=disabledworld'

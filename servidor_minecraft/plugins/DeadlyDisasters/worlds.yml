@@ -7,24 +7,24 @@ world:
     disaster_offset: 10
     admin_override: true
     pet_warning_time: 0
-    difficulty: EASY
+    difficulty: CUSTOM
     minDistanceRadius: 50
     custom_mob_spawning: true
     config: DEFAULT
   disasters:
     SINKHOLE: true
-    CAVEIN: true
+    CAVEIN: false
     TORNADO: true
     GEYSER: true
     PLAGUE: true
-    ACIDSTORM: true
+    ACIDSTORM: false
     EXTREMEWINDS: true
     SOULSTORM: true
-    BLIZZARD: true
+    BLIZZARD: false
     SANDSTORM: true
     EARTHQUAKE: true
     TSUNAMI: true
-    METEORSHOWERS: true
+    METEORSHOWERS: false
     ENDSTORM: true
     SUPERNOVA: true
     HURRICANE: true
