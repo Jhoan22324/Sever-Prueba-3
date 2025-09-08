@@ -467,3 +467,49 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [20:05:57] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
 [20:06:12] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Powder Snow Bucket(Miscellaneous.page1.items.23) para 33.99$ con el comprar pantalla.
 [20:06:35] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[20:07:10] [Server thread/INFO]: SebasyTU_ issued server command: /give SebasyTU_ coal_block 20
+[20:07:49] [Server thread/INFO]: zSxhio issued server command: /balance
+[20:08:39] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:09:01] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:09:17] [Server thread/INFO]: SebasyTU_ issued server command: /eeco give SebasyTU_ 3000
+[20:09:27] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[20:09:43] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:10:23] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Anvil(Miscellaneous.page1.items.1) para 187.25$ con el comprar pantalla.
+[20:10:44] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:10:54] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.9) para 972.41$ con el comprar pantalla.
+[20:11:01] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.11) para 336.00$ con el comprar pantalla.
+[20:11:05] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.14) para 705.60$ con el comprar pantalla.
+[20:11:11] [Server thread/INFO]: SebasyTU_ issued server command: /enchant mending 1
+[20:11:12] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.23) para 160.00$ con el comprar pantalla.
+[20:11:17] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.19) para 705.60$ con el comprar pantalla.
+[20:11:23] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.33) para 972.41$ con el comprar pantalla.
+[20:11:28] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.40) para 441.00$ con el comprar pantalla.
+[20:11:30] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.40) para 441.00$ con el comprar pantalla.
+[20:11:38] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:11:47] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:11:53] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:12:09] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Experience Bottle(Miscellaneous.page1.items.11) para 3,562.02$ con el comprar pantalla.
+[20:12:57] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:13:05] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:13:05] [Server thread/INFO]: Shop >> Jhennsdm compró 17 x Experience Bottle(Miscellaneous.page1.items.11) para 1,834.98$ con el comprar pantalla.
+[20:13:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:13:31] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:13:40] [Server thread/INFO]: Shop >> Jhennsdm compró 17 x Experience Bottle(Miscellaneous.page1.items.11) para 1,834.98$ con el comprar pantalla.
+[20:13:51] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:14:00] [Server thread/INFO]: SebasyTU_ issued server command: /enchant efficiency 5
+[20:14:05] [Server thread/INFO]: SebasyTU_ issued server command: /enchant unbreaking 3
+[20:14:07] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:14:11] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:14:27] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:14:30] [Server thread/INFO]: Shop >> zSxhio compró 1 x Iron Ingot(Ores.page1.items.16) para 5.52$ con el comprar pantalla.
+[20:14:42] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:14:47] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:14:51] [Server thread/INFO]: zSxhio issued server command: /es
+[20:14:54] [Async Chat Thread - #9/INFO]: [Not Secure] <zSxhio> es
+[20:14:55] [Async Chat Thread - #9/INFO]: [Not Secure] <zSxhio> as
+[20:15:01] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:15:31] [Server thread/INFO]: Jhennsdm has made the advancement [Hidden in the Depths]
+[20:16:11] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:16:22] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:16:25] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:17:07] [Server thread/INFO]: Shop >> Jhennsdm vendido 21 x Quartz(Ores.page1.items.21) para 43.47$ con el pantalla de venta rápida.
