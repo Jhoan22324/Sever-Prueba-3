@@ -418,3 +418,52 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [19:55:23] [Server thread/INFO]: Jhennsdm[/127.34.136.29:35781] logged in with entity id 13511 at ([world_nether]2522.4985379714567, 52.26476798237038, 2540.3256138033316)
 [19:55:51] [Server thread/INFO]: Jhennsdm issued server command: /shop
 [19:56:32] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:400 Z:-94 !
+[19:56:51] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Elytra(Miscellaneous.page1.items.8) para 2,415.20$ con el comprar pantalla.
+[19:56:51] [Server thread/INFO]: Jhennsdm has reached the goal [Sky's the Limit]
+[19:57:29] [Server thread/INFO]: Shop >> Jhennsdm compró 2 x Firework Rocket(Miscellaneous.page1.items.999) para 606.00$ con el comprar pantalla.
+[19:58:27] [Server thread/INFO]: Jhennsdm tried to swim in lava
+[19:58:27] [Server thread/INFO]: Jhennsdm lost connection: Disconnected
+[19:58:27] [Server thread/INFO]: [voicechat] Disconnecting client Jhennsdm
+[19:58:27] [Server thread/INFO]: Jhennsdm left the game
+[19:58:59] [User Authenticator #3/INFO]: UUID of player Jhennsdm is 29cb5f03-1d37-379f-a6fb-d0620d083c9e
+[19:59:00] [Server thread/INFO]: Jhennsdm joined the game
+[19:59:00] [Server thread/INFO]: Jhennsdm[/127.34.136.29:34677] logged in with entity id 16452 at ([world_nether]2452.3123548416074, 29.10121601150212, 2673.382185045624)
+[19:59:19] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:00:24] [Server thread/INFO]: SebasyTU_ issued server command: /eeco give 5000
+[20:00:32] [Server thread/INFO]: SebasyTU_ issued server command: /eco give Jhennsdm 5000
+[20:00:40] [Server thread/INFO]: Jhennsdm issued server command: /tpa
+[20:00:49] [Server thread/INFO]: SebasyTU_ issued server command: /balancetop
+[20:01:04] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:01:04] [Server thread/INFO]: SebasyTU_ issued server command: /eco set Jhennsdm 5000
+[20:01:12] [Server thread/INFO]: SebasyTU_ issued server command: /balancetop
+[20:01:17] [User Authenticator #4/INFO]: UUID of player zSxhio is 1c890bda-bbf3-31c2-91aa-0cfd556c5635
+[20:01:18] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / craftorithm:escalivur] removed now.
+[20:01:19] [Server thread/INFO]: zSxhio joined the game
+[20:01:19] [Server thread/INFO]: zSxhio[/127.34.225.252:37771] logged in with entity id 18077 at ([world]685.8395158481344, 74.0, 1534.3533691358632)
+[20:01:20] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Diamond(Ores.page1.items.9) para 1,732.50$ con el comprar pantalla.
+[20:01:50] [Server thread/INFO]: SebasyTU_ issued server command: /eco give Jhennsdm 10000
+[20:02:01] [Server thread/INFO]: SebasyTU_ issued server command: /eco give zSxhio 10000
+[20:02:05] [Server thread/INFO]: SebasyTU_ issued server command: /msg zSxhio shhhh
+[20:02:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:02:27] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:02:28] [Server thread/INFO]: zSxhio issued server command: /tpa s
+[20:02:31] [Server thread/INFO]: Shop >> Jhennsdm compró 17 x Iron Ingot(Ores.page1.items.16) para 93.83$ con el comprar pantalla.
+[20:02:45] [Server thread/INFO]: SebasyTU_ issued server command: /msg zSxhio no puedo aceptar tilin xd
+[20:02:49] [Async Chat Thread - #6/INFO]: [Not Secure] <zSxhio> pq
+[20:02:58] [Server thread/INFO]: SebasyTU_ issued server command: /msg zSxhio porq si
+[20:03:11] [Async Chat Thread - #6/INFO]: [Not Secure] <zSxhio> asd
+[20:03:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Jhennsdm> xd
+[20:03:20] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:03:36] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Cooked Mutton(Food.page1.items.13) para 207.90$ con el comprar pantalla.
+[20:03:44] [Server thread/INFO]: Jhennsdm issued server command: /tpa SebasyTU_
+[20:04:02] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[20:04:19] [Server thread/INFO]: Jhennsdm has made the advancement [Not Today, Thank You]
+[20:04:22] [Server thread/INFO]: SebasyTU_ issued server command: /effect clear SebasyTU_
+[20:04:22] [Server thread/INFO]: [SebasyTU_: Removed every effect from SebasyTU_]
+[20:05:10] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:05:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:05:49] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:05:56] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:05:57] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:06:12] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Powder Snow Bucket(Miscellaneous.page1.items.23) para 33.99$ con el comprar pantalla.
+[20:06:35] [Server thread/INFO]: zSxhio issued server command: /tpa s
