@@ -18,16 +18,16 @@ timestamps:
   onlinejail: 0
   logout: 1757361507685
   login: 1757361540071
-money: '483.470000000000037'
+money: '6652.670000000000037'
 last-account-name: Jhennsdm
 lastlocation:
-  world: 378778be-ef0d-45f2-b0a3-095d71861a60
-  world-name: world
-  x: -3.5
-  y: 82.0
-  z: 9.5
-  yaw: 0.0
-  pitch: 0.0
+  world: a48735db-e111-4706-862b-b0941b5dcef9
+  world-name: world_nether
+  x: 2971.655109795881
+  y: 11.0
+  z: 3143.1152944534474
+  yaw: 178.53433227539062
+  pitch: 10.526412963867188
 logoutlocation:
   world: a48735db-e111-4706-862b-b0941b5dcef9
   world-name: world_nether

@@ -570,3 +570,83 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [20:27:27] [Server thread/INFO]: ghost17z[/127.0.28.4:42241] logged in with entity id 35018 at ([world]-7543.874251122446, 121.0, -5578.462885119305)
 [20:27:27] [Server thread/INFO]: Shop >> zSxhio vendido 320x Oak Log§r(Blocks.page5.items.230) por 240.00$§r con el interfaz de Venta.
 [20:27:39] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:27:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Jhennsdm> xd
+[20:27:48] [Async Chat Thread - #11/INFO]: [Not Secure] <zSxhio> a
+[20:27:48] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:27:49] [Server thread/INFO]: SebasyTU_ issued server command: /tp j SebasyTU_
+[20:27:52] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:27:53] [Async Chat Thread - #12/INFO]: [Not Secure] <regsexl> pito
+[20:27:54] [Server thread/INFO]: Shop >> zSxhio vendido 4x Diamond§r(Ores.page1.items.9) por 52.52$§r con el interfaz de Venta.
+[20:27:59] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:28:07] [Server thread/INFO]: Shop >> zSxhio compró 10 x Obsidian(Blocks.page3.items.143) para 312.50$ con el comprar pantalla.
+[20:29:00] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:29:05] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:29:07] [Server thread/INFO]: Shop >> zSxhio vendido 5x Wheat Seeds§r(Farming.page1.items.29) por 3.75$§r con el interfaz de Venta.
+[20:29:20] [Server thread/INFO]: SebasyTU_ issued server command: /god
+[20:29:49] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:29:51] [Server thread/INFO]: ghost17z lost connection: Disconnected
+[20:29:51] [Server thread/INFO]: [voicechat] Disconnecting client ghost17z
+[20:29:51] [Server thread/INFO]: ghost17z left the game
+[20:29:54] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:54] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:54] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:55] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:29:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:02] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:30:02] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:03] [Server thread/INFO]: Shop >> zSxhio compró 1 x Jungle Log(Blocks.page5.items.214) para 3.00$ con el comprar pantalla.
+[20:30:06] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:30:08] [Server thread/INFO]: Shop >> zSxhio vendido 13x Jungle Log§r(Blocks.page5.items.214), 31x Acacia Log§r(Blocks.page5.items.194) por 33.00$§r con el interfaz de Venta.
+[20:30:26] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:30:27] [Server thread/INFO]: Shop >> zSxhio vendido 21x Acacia Log§r(Blocks.page5.items.194) por 15.75$§r con el interfaz de Venta.
+[20:30:32] [Server thread/INFO]: zSxhio issued server command: /jobs
+[20:30:43] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Smithing Table(Workstations.page1.items.10) para 16.21$ con el comprar pantalla.
+[20:30:59] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:31:05] [Server thread/INFO]: Shop >> zSxhio vendido 1x Sunflower§r(Dyes.page1.items.30), 8x Cooked Mutton§r(Food.page1.items.13), 10x Pink Petals§r(Dyes.page1.items.25), 2x Oxeye Daisy§r(Dyes.page1.items.23), 1x Cooked Chicken§r(Food.page1.items.12), 1x Dirt§r(Blocks.page3.items.109), 2x Azure Bluet§r(Dyes.page1.items.17), 6x Wheat Seeds§r(Farming.page1.items.29), 1x Bone§r(Mobs.page1.items.4), 3x Ink Sac§r(Dyes.page1.items.32), 1x Brown Wool§r(Blocks.page6.items.249) por 35.82$§r con el interfaz de Venta.
+[20:31:06] [Server thread/INFO]: Jhennsdm has completed the challenge [Cover Me in Debris]
+[20:31:18] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:31:22] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:31:56] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:31:59] [Server thread/INFO]: Shop >> zSxhio vendido 20x Dirt§r(Blocks.page3.items.109), 1x Wheat Seeds§r(Farming.page1.items.29), 2x String§r(Mobs.page1.items.20), 1x Sand§r(Blocks.page4.items.160) por 20.75$§r con el interfaz de Venta.
+[20:32:05] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:32:11] [User Authenticator #7/INFO]: UUID of player 0x_ghost17 is 6da539a6-700f-3ef9-a6e7-40aadb6c72cd
+[20:32:13] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:32:14] [Server thread/INFO]: 0x_ghost17 joined the game
+[20:32:14] [Server thread/INFO]: 0x_ghost17[/127.0.28.4:54305] logged in with entity id 37736 at ([world]10.5, 79.0, 8.5)
+[20:32:16] [Server thread/INFO]: Shop >> zSxhio vendido 1x Arrow§r(Mobs.page1.items.1), 2x String§r(Mobs.page1.items.20) por 4.07$§r con el interfaz de Venta.
+[20:32:28] [Async Chat Thread - #13/INFO]: [Not Secure] <0x_ghost17> ahora si
+[20:32:32] [Server thread/INFO]: zSxhio fell from a high place
+[20:32:33] [Async Chat Thread - #13/INFO]: [Not Secure] <regsexl> pendejo
+[20:32:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Jhennsdm> xd
+[20:32:53] [Server thread/INFO]: 0x_ghost17 issued server command: /skin set EightStars
+[20:33:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:33:22] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:33:27] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:33:30] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:33:35] [Server thread/INFO]: Shop >> zSxhio compró 1 x Obsidian(Blocks.page3.items.143) para 31.25$ con el comprar pantalla.
+[20:33:35] [Server thread/INFO]: Shop >> zSxhio compró 1 x Obsidian(Blocks.page3.items.143) para 31.25$ con el comprar pantalla.
+[20:33:36] [Server thread/INFO]: Shop >> zSxhio compró 1 x Obsidian(Blocks.page3.items.143) para 31.25$ con el comprar pantalla.
+[20:33:39] [Server thread/INFO]: Shop >> Jhennsdm vendido 1 x Netherite Ingot(Ores.page1.items.20) para 591.91$ con el pantalla de venta rápida.
+[20:33:48] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:33:50] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:33:53] [Server thread/INFO]: Shop >> Jhennsdm vendido 1 x Netherite Block(Ores.page1.items.19) para 5,593.50$ con el pantalla de venta rápida.
+[20:33:57] [Server thread/INFO]: Shop >> zSxhio compró 1 x Iron Ingot(Ores.page1.items.16) para 5.52$ con el comprar pantalla.
+[20:33:58] [Server thread/INFO]: Shop >> zSxhio compró 1 x Iron Ingot(Ores.page1.items.16) para 5.52$ con el comprar pantalla.
+[20:34:44] [Server thread/INFO]: 0x_ghost17 issued server command: /ship
+[20:34:47] [Server thread/INFO]: 0x_ghost17 issued server command: /shop
+[20:35:23] [Server thread/WARN]: 0x_ghost17 moved wrongly!
+[20:35:23] [Async Chat Thread - #15/INFO]: [Not Secure] <regsexl> matias chupaloo
+[20:35:34] [Async Chat Thread - #16/INFO]: [Not Secure] <0x_ghost17> me muerooo
+[20:35:38] [Async Chat Thread - #16/INFO]: [Not Secure] <regsexl> muerete
+[20:35:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Jhennsdm> ok
+[20:36:06] [Server thread/INFO]: 0x_ghost17 starved to death
+[20:37:46] [Server thread/INFO]: 0x_ghost17 was shot by Skeleton
+[20:37:58] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:38:01] [Server thread/INFO]: Shop >> zSxhio vendido 2x Iron Ingot§r(Ores.page1.items.16), 58x Acacia Planks§r(Blocks.page5.items.195), 9x Wheat Seeds§r(Farming.page1.items.29) por 25.75$§r con el interfaz de Venta.
+[20:38:04] [Server thread/INFO]: zSxhio issued server command: /shop
