@@ -377,3 +377,79 @@ The Ban Hammer has spoken!
 [21:15:55] [Server thread/INFO]: Shop >> Jhennsdm vendido 24 x Quartz(Ores.page1.items.21) para 49.67$ con el pantalla de venta rápida.
 [21:16:07] [Server thread/INFO]: Jhennsdm issued server command: /shop
 [21:16:09] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[21:16:17] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[21:16:19] [Server thread/INFO]: Shop >> Jhennsdm vendido 49 x Quartz(Ores.page1.items.21) para 101.42$ con el pantalla de venta rápida.
+[21:17:48] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[21:18:00] [Server thread/INFO]: Shop >> Jhennsdm compró 8 x Diamond(Ores.page1.items.9) para 420.00$ con el comprar pantalla.
+[21:18:08] [Server thread/INFO]: Jhennsdm lost connection: Disconnected
+[21:18:08] [Server thread/INFO]: [voicechat] Disconnecting client Jhennsdm
+[21:18:08] [Server thread/INFO]: Jhennsdm left the game
+[21:18:50] [User Authenticator #2/INFO]: UUID of player Jhennsdm is 29cb5f03-1d37-379f-a6fb-d0620d083c9e
+[21:18:54] [Server thread/INFO]: Jhennsdm joined the game
+[21:18:54] [Server thread/INFO]: Jhennsdm[/127.34.136.29:47837] logged in with entity id 4052 at ([world]22700.468719203396, 92.0, 25363.536955733744)
+[21:19:41] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[21:19:46] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.28) para 463.05$ con el comprar pantalla.
+[21:20:11] [Server thread/INFO]: SebasyTU_ issued server command: /tpa Jhennsdm
+[21:20:14] [Server thread/INFO]: Jhennsdm issued server command: /tpaccept
+[21:21:29] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[21:22:19] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[21:23:02] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Totem Of Undying(Miscellaneous.page1.items.36) para 100.00$ con el comprar pantalla.
+[21:23:22] [Server thread/INFO]: SebasyTU_ issued server command: /tp Jhennsdm
+[21:23:47] [Server thread/INFO]: SebasyTU_ lost connection: Disconnected
+[21:23:47] [Server thread/INFO]: [voicechat] Disconnecting client SebasyTU_
+[21:23:47] [Server thread/INFO]: SebasyTU_ left the game
+[21:24:26] [Server thread/INFO]: Stopping the server
+[21:24:26] [Server thread/INFO]: Stopping server
+[21:24:26] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:24:26] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
+[21:24:26] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[21:24:26] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
+[21:24:26] [Server thread/INFO]: [ClanSystem] Disabling ClanSystem v1.0
+[21:24:26] [Server thread/INFO]: [ClanSystem] §c[ClanSystem] تم إيقاف نظام العشائر!
+[21:24:26] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[21:24:26] [Server thread/INFO]: [TAB] Disabled in 1ms
+[21:24:26] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.17
+[21:24:26] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[21:24:26] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
+[21:24:26] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
+[21:24:26] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
+[21:24:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:24:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:24:26] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:24:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[21:24:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:24:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:24:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:24:26] [Server thread/INFO]: Saving players
+[21:24:26] [Server thread/INFO]: Jhennsdm lost connection: Server closed
+[21:24:26] [Server thread/INFO]: Jhennsdm left the game
+[21:24:26] [Server thread/INFO]: Saving worlds
+[21:24:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:24:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:24:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:24:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Saved 639 block chunks, 610 entity chunks, 1 poi chunks in world 'world' in 1.22s
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:24:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:24:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 28 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:24:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:24:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:24:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:24:27] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:24:27] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:24:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:24:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
