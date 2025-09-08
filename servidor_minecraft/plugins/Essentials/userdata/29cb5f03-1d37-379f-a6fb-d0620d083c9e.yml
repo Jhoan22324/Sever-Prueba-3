@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.34.136.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1757359619065
+money: '0'
+last-account-name: Jhennsdm
+lastlocation:
+  world: 378778be-ef0d-45f2-b0a3-095d71861a60
+  world-name: world
+  x: 176.06437485565067
+  y: 69.0
+  z: 85.95371496563999
+  yaw: -49.800048828125
+  pitch: 12.150016784667969
