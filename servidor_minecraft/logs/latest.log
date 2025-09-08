@@ -346,3 +346,36 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [19:32:00] [Server thread/INFO]: Jhennsdm has made the advancement [Stone Age]
 [19:32:09] [Server thread/INFO]: Jhennsdm has made the advancement [Getting an Upgrade]
 [19:32:18] [Server thread/INFO]: Jhennsdm has made the advancement [Monster Hunter]
+[19:36:04] [User Authenticator #1/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
+[19:36:06] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:36:06] [Server thread/INFO]: SebasyTU_ joined the game
+[19:36:06] [Server thread/INFO]: SebasyTU_[/127.170.78.71:48885] logged in with entity id 3924 at ([world]892.4290125906239, 105.0, -18598.52924526046)
+[19:37:11] [Server thread/INFO]: SebasyTU_ issued server command: /eco give Jhennsdm 10000
+[19:37:17] [Server thread/WARN]: SebasyTU_ moved too quickly! 49.7424108445432,-2.592181507667007,0.3866232872424007
+[19:37:27] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:37:41] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Iron Ingot(Ores.page1.items.16) para 182.16$ con el comprar pantalla.
+[19:37:41] [Server thread/INFO]: Jhennsdm has made the advancement [Acquire Hardware]
+[19:37:56] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:38:05] [Server thread/INFO]: SebasyTU_ issued server command: /tp SebasyTU_ 19000 80 190000
+[19:38:10] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Diamond(Ores.page1.items.9) para 1,732.50$ con el comprar pantalla.
+[19:38:10] [Server thread/INFO]: Jhennsdm has made the advancement [Diamonds!]
+[19:38:14] [Server thread/INFO]: Jhennsdm has made the advancement [Cover Me with Diamonds]
+[19:39:00] [Server thread/INFO]: SebasyTU_ issued server command: /tpa Jhennsdm
+[19:39:03] [Server thread/INFO]: Jhennsdm issued server command: /tpaccept
+[19:39:10] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:39:19] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
+[19:39:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:39:23] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:40:16] [Async Chat Thread - #1/INFO]: [Not Secure] [SGR] SebasyTU_: a
+[19:40:48] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:42:43] [Server thread/INFO]: Jhennsdm issued server command: /skin
+[19:42:53] [Server thread/INFO]: Jhennsdm issued server command: /skin menu
+[19:45:04] [Server thread/INFO]: Jhennsdm fell from a high place
+[19:45:10] [Server thread/INFO]: SebasyTU_ issued server command: /tp Jhennsdm SebasyTU_
+[19:45:11] [Server thread/INFO]: Jhennsdm issued server command: /tpa SebasyTU_
+[19:45:17] [Server thread/INFO]: SebasyTU_ issued server command: /gamerule keepInventory false
+[19:45:17] [Server thread/INFO]: [SebasyTU_: Gamerule keepInventory is now set to: false]
+[19:45:51] [Async Chat Thread - #2/INFO]: [Not Secure] <Jhennsdm> 7shop
+[19:45:55] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:45:58] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[19:46:17] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]

@@ -18,13 +18,13 @@ timestamps:
   onlinejail: 0
   logout: 0
   login: 1757359619065
-money: '0'
+money: '8085.34'
 last-account-name: Jhennsdm
 lastlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 176.06437485565067
-  y: 69.0
-  z: 85.95371496563999
-  yaw: -49.800048828125
-  pitch: 12.150016784667969
+  x: -3.5
+  y: 82.0
+  z: 9.5
+  yaw: 0.0
+  pitch: 0.0
