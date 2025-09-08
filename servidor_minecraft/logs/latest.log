@@ -513,3 +513,60 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [20:16:22] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
 [20:16:25] [Server thread/INFO]: Jhennsdm issued server command: /shop
 [20:17:07] [Server thread/INFO]: Shop >> Jhennsdm vendido 21 x Quartz(Ores.page1.items.21) para 43.47$ con el pantalla de venta rápida.
+[20:17:24] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Gold Ingot(Ores.page1.items.14) para 272.90$ con el comprar pantalla.
+[20:17:45] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:17:52] [Server thread/INFO]: Shop >> Jhennsdm compró 33 x Coal(Ores.page1.items.4) para 173.25$ con el comprar pantalla.
+[20:19:17] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:19:19] [User Authenticator #5/INFO]: UUID of player regsexl is 7712c6cf-a2fb-3e2a-ac83-eb64ed372be2
+[20:19:19] [Server thread/INFO]: Shop >> Jhennsdm vendido 21 x Quartz(Ores.page1.items.21) para 43.47$ con el pantalla de venta rápida.
+[20:19:20] [Server thread/INFO]: regsexl joined the game
+[20:19:20] [Server thread/INFO]: regsexl[/127.135.38.35:33961] logged in with entity id 29661 at ([world]913.4612428764503, 69.0, -18441.075255636635)
+[20:20:28] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:20:35] [Server thread/INFO]: Shop >> zSxhio compró 1 x Elytra(Miscellaneous.page1.items.8) para 2,415.20$ con el comprar pantalla.
+[20:20:35] [Server thread/INFO]: zSxhio has reached the goal [Sky's the Limit]
+[20:20:46] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:46] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:47] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:47] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:47] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:47] [Server thread/INFO]: Shop >> zSxhio compró 8 x Firework Rocket(Miscellaneous.page1.items.999) para 2,424.00$ con el comprar pantalla.
+[20:20:52] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:20:54] [Server thread/INFO]: Shop >> Jhennsdm vendido 16 x Quartz(Ores.page1.items.21) para 33.12$ con el pantalla de venta rápida.
+[20:20:59] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:21:12] [Server thread/INFO]: regsexl issued server command: /tpa SebasyTU_
+[20:21:15] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[20:21:21] [Server thread/INFO]: zSxhio issued server command: /sellgui+
+[20:21:23] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:21:24] [Server thread/INFO]: Shop >> zSxhio vendido 64x Acacia Planks§r(Blocks.page5.items.195) por 17.92$§r con el interfaz de Venta.
+[20:22:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:22:20] [Server thread/INFO]: regsexl has completed the challenge [Cover Me in Debris]
+[20:22:33] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:22:53] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:22:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Gold Ingot(Ores.page1.items.14) para 8.27$ con el comprar pantalla.
+[20:22:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Gold Ingot(Ores.page1.items.14) para 8.27$ con el comprar pantalla.
+[20:22:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Gold Ingot(Ores.page1.items.14) para 8.27$ con el comprar pantalla.
+[20:22:56] [Server thread/INFO]: Shop >> zSxhio compró 1 x Gold Ingot(Ores.page1.items.14) para 8.27$ con el comprar pantalla.
+[20:23:05] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:23:11] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:23:43] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:23:50] [Server thread/INFO]: Shop >> Jhennsdm vendido 15 x Quartz(Ores.page1.items.21) para 31.04$ con el pantalla de venta rápida.
+[20:25:58] [Server thread/INFO]: zSxhio has made the advancement [Not Today, Thank You]
+[20:26:32] [Server thread/INFO]: [MeteoritesPro] A Fiery Meteorite has been sighted near X:346 Z:496 !
+[20:26:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Jhennsdm> xd
+[20:26:58] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:27:01] [Server thread/INFO]: Shop >> zSxhio vendido 1x Gold Ingot§r(Ores.page1.items.14), 214x Acacia Log§r(Blocks.page5.items.194) por 162.57$§r con el interfaz de Venta.
+[20:27:07] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:27:19] [Server thread/INFO]: Shop >> zSxhio compró 64 x Oak Log(Blocks.page5.items.230) para 192.00$ con el comprar pantalla.
+[20:27:19] [Server thread/INFO]: Shop >> zSxhio compró 64 x Oak Log(Blocks.page5.items.230) para 192.00$ con el comprar pantalla.
+[20:27:19] [Server thread/INFO]: Shop >> zSxhio compró 64 x Oak Log(Blocks.page5.items.230) para 192.00$ con el comprar pantalla.
+[20:27:19] [Server thread/INFO]: Shop >> zSxhio compró 64 x Oak Log(Blocks.page5.items.230) para 192.00$ con el comprar pantalla.
+[20:27:20] [Server thread/INFO]: Shop >> zSxhio compró 64 x Oak Log(Blocks.page5.items.230) para 192.00$ con el comprar pantalla.
+[20:27:22] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:27:24] [User Authenticator #6/INFO]: UUID of player ghost17z is b6c45568-5856-342f-9a8a-5d525d56c0ea
+[20:27:24] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:27:26] [Server thread/ERROR]: Tried to load unrecognized recipe: ResourceKey[minecraft:recipe / craftorithm:escalivur] removed now.
+[20:27:27] [Server thread/INFO]: ghost17z joined the game
+[20:27:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ghost17z's group (tryhard) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:27:27] [Server thread/INFO]: ghost17z[/127.0.28.4:42241] logged in with entity id 35018 at ([world]-7543.874251122446, 121.0, -5578.462885119305)
+[20:27:27] [Server thread/INFO]: Shop >> zSxhio vendido 320x Oak Log§r(Blocks.page5.items.230) por 240.00$§r con el interfaz de Venta.
+[20:27:39] [Server thread/INFO]: zSxhio issued server command: /shop
