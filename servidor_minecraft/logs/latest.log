@@ -650,3 +650,70 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [20:37:58] [Server thread/INFO]: zSxhio issued server command: /sellgui
 [20:38:01] [Server thread/INFO]: Shop >> zSxhio vendido 2x Iron Ingot§r(Ores.page1.items.16), 58x Acacia Planks§r(Blocks.page5.items.195), 9x Wheat Seeds§r(Farming.page1.items.29) por 25.75$§r con el interfaz de Venta.
 [20:38:04] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:38:08] [Server thread/INFO]: Shop >> zSxhio compró 1 x Obsidian(Blocks.page3.items.143) para 31.25$ con el comprar pantalla.
+[20:39:15] [Server thread/INFO]: SebasyTU_ experienced kinetic energy
+[20:39:18] [Server thread/INFO]: SebasyTU_ issued server command: /back
+[20:39:22] [Server thread/INFO]: SebasyTU_ issued server command: /tp regsexl
+[20:39:35] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:41:08] [Server thread/INFO]: Jhennsdm issued server command: /tpa SebasyTU_
+[20:41:10] [Server thread/INFO]: regsexl issued server command: /shop
+[20:41:11] [Server thread/INFO]: SebasyTU_ issued server command: /tpaccept
+[20:41:38] [Server thread/INFO]: Shop >> regsexl compró 9 x Obsidian(Blocks.page3.items.143) para 281.25$ con el comprar pantalla.
+[20:41:48] [Server thread/INFO]: Shop >> regsexl compró 1 x Obsidian(Blocks.page3.items.143) para 31.25$ con el comprar pantalla.
+[20:41:49] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:41:56] [User Authenticator #8/INFO]: UUID of player ghost17z is b6c45568-5856-342f-9a8a-5d525d56c0ea
+[20:41:59] [Server thread/INFO]: ghost17z joined the game
+[20:41:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ghost17z's group (tryhard) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:41:59] [Server thread/INFO]: ghost17z[/127.0.28.4:47433] logged in with entity id 48041 at ([world]-7538.0905818904575, 117.0, -5586.5429381420045)
+[20:42:06] [Netty Epoll Server IO #3/INFO]: Disconnecting 0x_ghost17 for sending keepalive response (4994825) out-of-order!
+[20:42:06] [Server thread/INFO]: 0x_ghost17 lost connection: Timed out
+[20:42:06] [Server thread/INFO]: [voicechat] Disconnecting client 0x_ghost17
+[20:42:06] [Server thread/INFO]: 0x_ghost17 left the game
+[20:42:16] [User Authenticator #8/INFO]: UUID of player 0x_ghost17 is 6da539a6-700f-3ef9-a6e7-40aadb6c72cd
+[20:42:17] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Detected skin change of 0x_ghost17, updating cached skin...
+[20:42:17] [Server thread/INFO]: 0x_ghost17 joined the game
+[20:42:17] [Server thread/INFO]: 0x_ghost17[/127.0.28.4:40293] logged in with entity id 48892 at ([world]6.601965978731401, 112.0, 27.158326687341418)
+[20:42:18] [Server thread/INFO]: Jhennsdm has made the advancement [Crafting a New Look]
+[20:42:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:42:30] [Server thread/INFO]: SebasyTU_ issued server command: /tp 0x_ghost17 ghost17z
+[20:42:41] [Server thread/INFO]: ghost17z lost connection: Disconnected
+[20:42:41] [Server thread/INFO]: [voicechat] Disconnecting client ghost17z
+[20:42:41] [Server thread/INFO]: ghost17z left the game
+[20:42:49] [Server thread/INFO]: 0x_ghost17 has made the advancement [Stone Age]
+[20:42:50] [Server thread/INFO]: 0x_ghost17 has made the advancement [Ice Bucket Challenge]
+[20:42:53] [Server thread/INFO]: 0x_ghost17 has completed the challenge [Cover Me in Debris]
+[20:43:04] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:43:13] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:43:16] [Server thread/INFO]: Shop >> zSxhio vendido 4x Cobblestone§r(Blocks.page1.items.51), 315x Dirt§r(Blocks.page3.items.109) por 236.93$§r con el interfaz de Venta.
+[20:43:24] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:43:28] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Diamond(Ores.page1.items.9) para 52.50$ con el comprar pantalla.
+[20:44:09] [Server thread/INFO]: 0x_ghost17 issued server command: /balancetop
+[20:44:10] [Server thread/INFO]: zSxhio issued server command: /shop
+[20:44:22] [Server thread/INFO]: SebasyTU_ issued server command: /balancetop
+[20:44:26] [Server thread/INFO]: zSxhio issued server command: /balancetop
+[20:44:30] [Server thread/INFO]: regsexl issued server command: /shop
+[20:44:57] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[20:45:00] [Server thread/INFO]: SebasyTU_ issued server command: /eco give 0x_ghost17 5000
+[20:45:02] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.23) para 160.00$ con el comprar pantalla.
+[20:45:14] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.40) para 441.00$ con el comprar pantalla.
+[20:45:21] [Server thread/INFO]: SebasyTU_ issued server command: /pay regsexl 1000
+[20:45:28] [Server thread/INFO]: regsexl issued server command: /shop
+[20:45:32] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.9) para 972.41$ con el comprar pantalla.
+[20:45:46] [Server thread/INFO]: 0x_ghost17 issued server command: /sethome a
+[20:45:51] [Server thread/INFO]: 0x_ghost17 issued server command: /home a
+[20:45:54] [Server thread/INFO]: zSxhio issued server command: /sethome penne
+[20:45:54] [Server thread/INFO]: [Essentials] zSxhio was denied access to command.
+[20:46:06] [Server thread/INFO]: 0x_ghost17 issued server command: /home a}
+[20:46:23] [Server thread/INFO]: zSxhio issued server command: /sellgui
+[20:46:23] [Server thread/INFO]: Shop >> regsexl compró 17 x Gunpowder(Mobs.page1.items.10) para 263.50$ con el comprar pantalla.
+[20:46:25] [Server thread/INFO]: Shop >> zSxhio vendido 163x Dirt§r(Blocks.page3.items.109) por 122.25$§r con el interfaz de Venta.
+[20:46:27] [Server thread/INFO]: Shop >> regsexl compró 49 x Gunpowder(Mobs.page1.items.10) para 759.50$ con el comprar pantalla.
+[20:46:36] [Server thread/INFO]: zSxhio fell from a high place
+[20:47:24] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[20:47:30] [Server thread/INFO]: 0x_ghost17 issued server command: /shop
+[20:47:35] [Server thread/INFO]: Shop >> 0x_ghost17 compró 1 x Ender Pearl(Mobs.page1.items.6) para 7.00$ con el comprar pantalla.
+[20:47:50] [Server thread/INFO]: 0x_ghost17 issued server command: /shop
+[20:47:59] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[20:48:00] [Server thread/INFO]: Shop >> 0x_ghost17 compró 8 x Obsidian(Blocks.page3.items.143) para 250.00$ con el comprar pantalla.
+[20:48:14] [Server thread/INFO]: 0x_ghost17 has made the advancement [Into Fire]
+[20:48:31] [Server thread/INFO]: 0x_ghost17 has made the advancement [Spooky Scary Skeleton]

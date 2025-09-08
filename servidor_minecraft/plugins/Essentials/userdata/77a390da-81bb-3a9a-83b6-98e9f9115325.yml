@@ -11,14 +11,14 @@ powertoolsenabled: true
 accepting-pay: false
 baltop-exempt: false
 timestamps:
-  lastteleport: 1757294079426
+  lastteleport: 1757363962812
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1757294325894
   login: 1757360166455
-money: '5354.6900000000001'
+money: '4354.6900000000001'
 last-account-name: SebasyTU_
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
@@ -31,11 +31,11 @@ logoutlocation:
 lastlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 2225.049128915967
-  y: 98.30055210723346
-  z: -18635.10983464005
-  yaw: -93.41577911376953
-  pitch: -9.372724533081055
+  x: 2227.1971759538324
+  y: 68.0
+  z: -18635.49046248237
+  yaw: -75.20545196533203
+  pitch: 8.053688049316406
 homes:
   home:
     world: 378778be-ef0d-45f2-b0a3-095d71861a60
