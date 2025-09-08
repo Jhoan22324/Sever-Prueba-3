@@ -379,3 +379,42 @@ java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.bukkit.utils.ver
 [19:45:55] [Server thread/INFO]: Jhennsdm issued server command: /shop
 [19:45:58] [Server thread/INFO]: SebasyTU_ issued server command: /shop
 [19:46:17] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:46:25] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:46:53] [Server thread/INFO]: Shop >> Jhennsdm vendido 256 x Amethyst Shard(Ores.page1.items.2) para 84.48$ con el pantalla de venta rápida.
+[19:46:53] [Server thread/INFO]: Shop >> Jhennsdm vendido 256 x Amethyst Shard(Ores.page1.items.2) para 84.48$ con el pantalla de venta rápida.
+[19:46:54] [Server thread/INFO]: Shop >> Jhennsdm vendido 256 x Amethyst Shard(Ores.page1.items.2) para 84.48$ con el pantalla de venta rápida.
+[19:46:54] [Server thread/INFO]: Shop >> Jhennsdm vendido 189 x Amethyst Shard(Ores.page1.items.2) para 62.37$ con el pantalla de venta rápida.
+[19:47:43] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:48:01] [Async Chat Thread - #4/INFO]: [Not Secure] [SGR] SebasyTU_: jobsw
+[19:48:05] [Server thread/INFO]: SebasyTU_ issued server command: /fly
+[19:48:08] [Server thread/INFO]: SebasyTU_ issued server command: /fly
+[19:48:10] [Server thread/INFO]: SebasyTU_ issued server command: /god
+[19:48:30] [Server thread/INFO]: Jhennsdm has made the advancement [Hot Stuff]
+[19:48:34] [Server thread/INFO]: SebasyTU_ issued server command: /shop
+[19:48:39] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:49:13] [Server thread/INFO]: Jhennsdm has made the advancement [Ice Bucket Challenge]
+[19:49:32] [Server thread/INFO]: SebasyTU_ issued server command: /effect give SebasyTU_ minecraft:haste infinite 5
+[19:49:32] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to SebasyTU_]
+[19:50:57] [Server thread/INFO]: SebasyTU_ has made the advancement [We Need to Go Deeper]
+[19:50:57] [Server thread/INFO]: Jhennsdm has made the advancement [We Need to Go Deeper]
+[19:52:26] [Server thread/INFO]: SebasyTU_ has made the advancement [A Terrible Fortress]
+[19:52:28] [Netty Epoll Server IO #2/INFO]: Disconnecting Jhennsdm for sending keepalive response (2016013) out-of-order!
+[19:52:28] [Server thread/INFO]: Jhennsdm lost connection: Timed out
+[19:52:28] [Server thread/INFO]: [voicechat] Disconnecting client Jhennsdm
+[19:52:28] [Server thread/INFO]: Jhennsdm left the game
+[19:52:33] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:52:40] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:52:45] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:53:00] [Server thread/INFO]: SebasyTU_ has made the advancement [Hidden in the Depths]
+[19:53:25] [Server thread/INFO]: SebasyTU_ issued server command: /god
+[19:53:26] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:53:41] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:54:30] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:54:32] [Server thread/INFO]: SebasyTU_ issued server command: /god
+[19:54:33] [Server thread/INFO]: SebasyTU_ issued server command: /god
+[19:55:22] [User Authenticator #2/INFO]: UUID of player Jhennsdm is 29cb5f03-1d37-379f-a6fb-d0620d083c9e
+[19:55:23] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Detected skin change of Jhennsdm, updating cached skin...
+[19:55:23] [Server thread/INFO]: Jhennsdm joined the game
+[19:55:23] [Server thread/INFO]: Jhennsdm[/127.34.136.29:35781] logged in with entity id 13511 at ([world_nether]2522.4985379714567, 52.26476798237038, 2540.3256138033316)
+[19:55:51] [Server thread/INFO]: Jhennsdm issued server command: /shop
+[19:56:32] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:400 Z:-94 !

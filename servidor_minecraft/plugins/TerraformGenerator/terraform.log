@@ -4733,3 +4733,5 @@
 [2025-09-08 19:41:54] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 1236,1268 
 [2025-09-08 19:41:57] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 1253,1273 
 [2025-09-08 19:41:57] [INFO   ] Spawning Underground Dungeon at 20063,128,20377 
+[2025-09-08 19:48:22] [INFO   ] Large Cave at 19264,19,20288 has water level > -24 with populator LargeLushCavePopulator 
+[2025-09-08 19:48:29] [INFO   ] 1204,1236 will spawn a vanilla structure, with tryGenerateStructure == true 
