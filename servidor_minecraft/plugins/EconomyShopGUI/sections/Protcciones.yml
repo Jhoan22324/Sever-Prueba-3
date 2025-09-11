@@ -1,0 +1,27 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: 1000
+        buy: 10000
+        sell: 7000
+      '2':
+        material: 672
+        buy: 7777
+        sell: 5000
+      '3':
+        material: 224
+        buy: 5000
+        sell: 3500
+      '4':
+        material: 112
+        buy: 3500
+        sell: 2000
+      '5':
+        material: 80
+        buy: 2000
+        sell: 1500
+      '6':
+        material: 50
+        buy: 1500
+        sell: 800

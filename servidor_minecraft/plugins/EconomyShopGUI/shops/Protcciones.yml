@@ -2,26 +2,26 @@ pages:
   page1:
     items:
       '1':
-        material: CALCITE
-        buy: 2
-        sell: 0.5
+        material: 1000
+        buy: 10000
+        sell: 7000
       '2':
-        material: DRIPSTONE_BLOCK
-        buy: 1
-        sell: 0.25
+        material: 672
+        buy: 7777
+        sell: 5000
       '3':
-        material: HAY_BLOCK
-        buy: 47.25
-        sell: 11.82
+        material: 224
+        buy: 5000
+        sell: 3500
       '4':
-        material: HONEY_BLOCK
-        buy: 33.34
-        sell: 8.34
+        material: 112
+        buy: 3500
+        sell: 2000
       '5':
-        material: MAGMA_BLOCK
-        buy: 33.63
-        sell: 8.41
+        material: 80
+        buy: 2000
+        sell: 1500
       '6':
-        material: PACKED_ICE
-        buy: 13.5
-        sell: 3.38
+        material: 50
+        buy: 1500
+        sell: 800
