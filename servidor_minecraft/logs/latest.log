@@ -1,250 +1,250 @@
-[21:37:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:37:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[21:37:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:37:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 14 plugins
-[21:37:25] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[21:41:20] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:41:20] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:41:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:41:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 14 plugins
+[21:41:21] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - EconomyShopGUI (6.14.5)
-[21:37:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
+[21:41:21] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
  - ClanSystem (1.0), EnchantsSquared (2.5.17), Essentials (2.22.0-dev+26-e086064), LuckPerms (5.5.11), MeteoritesPro (1.5.3), NametagEditX (5.0.0), PlaceholderAPI (2.11.6), SimpleTPA (1.0), SkinsRestorer (15.7.10), TAB (5.2.5), TerraformGenerator (22.0.0), Vault (1.7.3-b131), voicechat (2.5.35)
-[21:37:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:37:32] [ServerMain/INFO]: Loaded 1407 recipes
-[21:37:32] [ServerMain/INFO]: Loaded 1520 advancements
-[21:37:32] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:37:33] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 921.8ms
-[21:37:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:37:33] [Server thread/INFO]: Loading properties
-[21:37:33] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[21:37:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:37:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:37:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:37:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:37:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:37:34] [Server thread/INFO]: Default game type: SURVIVAL
-[21:37:34] [Server thread/INFO]: Generating keypair
-[21:37:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:37:34] [Server thread/INFO]: Using epoll channel type
-[21:37:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:37:34] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[21:37:35] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.11
-[21:37:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[21:37:35] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[21:37:35] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[21:37:35] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+26-e086064
-[21:37:35] [Server thread/INFO]: [NametagEditX] Loading server plugin NametagEditX v5.0.0
-[21:37:35] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
-[21:37:35] [Server thread/INFO]: [MeteoritesPro] Loading server plugin MeteoritesPro v1.5.3
-[21:37:35] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.17
-[21:37:35] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[21:37:35] [Server thread/INFO]: [ClanSystem] Loading server plugin ClanSystem v1.0
-[21:37:35] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v22.0.0
-[21:37:35] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.14.5
-[21:37:35] [Server thread/INFO]: [SimpleTPA] Loading server plugin SimpleTPA v1.0
-[21:37:35] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[21:37:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:37:36] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.11
-[21:37:36] [Server thread/INFO]:         __    
-[21:37:36] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.11
-[21:37:36] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[21:37:36] [Server thread/INFO]: 
-[21:37:36] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[21:37:37] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[21:37:37] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[21:37:37] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1667ms)
-[21:37:37] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[21:37:37] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[21:37:37] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[21:37:37] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[21:37:37] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[21:37:37] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v22.0.0
-[21:37:38] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[21:37:38] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[21:37:38] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
-[21:37:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[21:37:39] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[21:37:39] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:37:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.10]
-[21:37:39] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[21:37:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:37:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:37:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:37:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:37:40] [Server thread/INFO]: Preparing level "world"
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:37:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:37:40] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[21:37:40] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[21:37:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:41] [Server thread/INFO]: Preparing spawn area: 2%
-[21:37:41] [Server thread/INFO]: Preparing spawn area: 12%
-[21:37:41] [Server thread/INFO]: Time elapsed: 1162 ms
-[21:37:41] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[21:37:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:37:41] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:41] [Server thread/INFO]: Time elapsed: 221 ms
-[21:37:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:37:42] [Server thread/INFO]: Preparing spawn area: 0%
-[21:37:42] [Server thread/INFO]: Time elapsed: 131 ms
-[21:37:42] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[21:37:42] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[21:37:42] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+26-e086064
-[21:37:42] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[21:37:42] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[21:37:42] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[21:37:43] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[21:37:43] [Server thread/INFO]: [Essentials] Using locale en
-[21:37:43] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[21:37:43] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[21:37:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[21:37:43] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[21:37:43] [Server thread/INFO]: [NametagEditX] Enabling NametagEditX v5.0.0
-[21:37:43] [Server thread/INFO]: [NametagEditX] Found LuckPerms! Hooking in.
-[21:37:43] [Server thread/INFO]: [NametagEditX] Found PlaceholderAPI! Hooking in.
-[21:37:43] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
-[21:37:43] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
-[21:37:43] [Server thread/INFO]: [voicechat] Compatibility version 18
-[21:37:43] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[21:37:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.35]
-[21:37:43] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
-[21:37:43] [Server thread/INFO]: [MeteoritesPro] Enabling MeteoritesPro v1.5.3
-[21:37:43] [Server thread/INFO]:          __
-[21:37:43] [Server thread/INFO]:    |\/| |__)   MeteoritesPro v1.5.3
-[21:37:43] [Server thread/INFO]:    |  | |        by OliPulse
-[21:37:43] [Server thread/INFO]:  
-[21:37:43] [Server thread/INFO]: [MeteoritesPro] Invalid sound type: 'ENTITY_ENDER_DRAGON_GROWL' for guardian 'meteoriteguardian'
-[21:37:43] [Server thread/INFO]: [MeteoritesPro] Invalid particle type: 'SMOKE_LARGE' for particle '2'
-[21:37:43] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.17
-[21:37:44] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[21:37:44] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[21:37:44] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[21:37:44] [Server thread/INFO]: [TAB] Enabled in 355ms
-[21:37:44] [Server thread/INFO]: [ClanSystem] Enabling ClanSystem v1.0
-[21:37:44] [Server thread/INFO]: [ClanSystem] تم تحميل ملف الإعدادات بنجاح!
-[21:37:44] [Server thread/INFO]: [ClanSystem] تم الاتصال بقاعدة البيانات بنجاح!
-[21:37:44] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تسجيل الأمر الموحد: /clan
-[21:37:44] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تفعيل نظام العشائر بنجاح!
-[21:37:44] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] ClanSystem has been enabled successfully!
-[21:37:44] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.14.5
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-es.yml as language file
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21.8...
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
-[21:37:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
-[21:37:45] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 937ms para completar
-[21:37:45] [Server thread/INFO]: [SimpleTPA] Enabling SimpleTPA v1.0
-[21:37:45] [Server thread/INFO]: [SimpleTPA] SimpleTPA Activated!
-[21:37:46] [Server thread/INFO]: [spark] Starting background profiler...
-[21:37:46] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[21:37:46] [Server thread/INFO]: Done preparing level "world" (6.442s)
-[21:37:46] [Server thread/INFO]: Running delayed init tasks
-[21:37:46] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[21:37:46] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[21:37:46] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] Checking for Updates ... 
-[21:37:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[21:37:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[21:37:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[21:37:46] [Server thread/INFO]: 3 placeholder hook(s) registered!
-[21:37:46] [Server thread/INFO]: Done (22.656s)! For help, type "help"
-[21:37:46] [Server thread/INFO]: [voicechat] Loading plugins
-[21:37:46] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[21:37:46] [Server thread/INFO]: [voicechat] Initializing plugins
-[21:37:46] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[21:37:46] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[21:37:46] [Craft Scheduler Thread - 1 - Vault/INFO]: [Vault] No new version available
-[21:37:46] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[21:37:46] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
-[21:37:46] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[21:40:49] [Server thread/INFO]: Stopping the server
-[21:40:49] [Server thread/INFO]: Stopping server
-[21:40:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
-[21:40:49] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
-[21:40:49] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
-[21:40:49] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
-[21:40:49] [Server thread/INFO]: [ClanSystem] Disabling ClanSystem v1.0
-[21:40:49] [Server thread/INFO]: [ClanSystem] §c[ClanSystem] تم إيقاف نظام العشائر!
-[21:40:49] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
-[21:40:49] [Server thread/INFO]: [TAB] Disabled in 0ms
-[21:40:49] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.17
-[21:40:49] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
-[21:40:49] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
-[21:40:49] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
-[21:40:49] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
-[21:40:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[21:40:49] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[21:40:49] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[21:40:49] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
-[21:40:49] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[21:40:49] [Server thread/INFO]: [LuckPerms] Closing storage...
-[21:40:49] [Server thread/INFO]: [LuckPerms] Goodbye!
-[21:40:49] [Server thread/INFO]: Saving players
-[21:40:49] [Server thread/INFO]: Saving worlds
-[21:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.27s
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[21:40:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.08s
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[21:40:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[21:40:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[21:40:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:40:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:40:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:40:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:40:50] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[21:40:50] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[21:40:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[21:40:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[21:41:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:41:27] [ServerMain/INFO]: Loaded 1407 recipes
+[21:41:27] [ServerMain/INFO]: Loaded 1520 advancements
+[21:41:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:41:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 835.4ms
+[21:41:28] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:41:28] [Server thread/INFO]: Loading properties
+[21:41:28] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:41:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:41:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:41:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:41:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:41:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:41:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:41:30] [Server thread/INFO]: Generating keypair
+[21:41:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:41:30] [Server thread/INFO]: Using epoll channel type
+[21:41:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:41:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:41:30] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.11
+[21:41:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:41:31] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[21:41:31] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[21:41:31] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+26-e086064
+[21:41:31] [Server thread/INFO]: [NametagEditX] Loading server plugin NametagEditX v5.0.0
+[21:41:31] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
+[21:41:31] [Server thread/INFO]: [MeteoritesPro] Loading server plugin MeteoritesPro v1.5.3
+[21:41:31] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.17
+[21:41:31] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
+[21:41:31] [Server thread/INFO]: [ClanSystem] Loading server plugin ClanSystem v1.0
+[21:41:31] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v22.0.0
+[21:41:31] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.14.5
+[21:41:31] [Server thread/INFO]: [SimpleTPA] Loading server plugin SimpleTPA v1.0
+[21:41:31] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[21:41:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:41:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.11
+[21:41:31] [Server thread/INFO]:         __    
+[21:41:31] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.11
+[21:41:31] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:41:31] [Server thread/INFO]: 
+[21:41:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:41:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:41:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:41:32] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1598ms)
+[21:41:32] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[21:41:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[21:41:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[21:41:33] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[21:41:33] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[21:41:33] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v22.0.0
+[21:41:33] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[21:41:33] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[21:41:33] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
+[21:41:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[21:41:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[21:41:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:41:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.10]
+[21:41:35] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[21:41:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:41:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:41:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:41:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:41:35] [Server thread/INFO]: Preparing level "world"
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:41:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:41:35] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[21:41:35] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[21:41:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:41:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:36] [Server thread/INFO]: Preparing spawn area: 2%
+[21:41:37] [Server thread/INFO]: Preparing spawn area: 14%
+[21:41:37] [Server thread/INFO]: Time elapsed: 1095 ms
+[21:41:37] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[21:41:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:41:37] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:37] [Server thread/INFO]: Time elapsed: 221 ms
+[21:41:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:41:37] [Server thread/INFO]: Preparing spawn area: 0%
+[21:41:37] [Server thread/INFO]: Time elapsed: 137 ms
+[21:41:37] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:41:37] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:41:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+26-e086064
+[21:41:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:41:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[21:41:38] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[21:41:38] [Server thread/INFO]: [Essentials] Using locale en
+[21:41:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:41:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:41:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[21:41:39] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[21:41:39] [Server thread/INFO]: [NametagEditX] Enabling NametagEditX v5.0.0
+[21:41:39] [Server thread/INFO]: [NametagEditX] Found LuckPerms! Hooking in.
+[21:41:39] [Server thread/INFO]: [NametagEditX] Found PlaceholderAPI! Hooking in.
+[21:41:39] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
+[21:41:39] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
+[21:41:39] [Server thread/INFO]: [voicechat] Compatibility version 18
+[21:41:39] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[21:41:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.35]
+[21:41:39] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[21:41:39] [Server thread/INFO]: [MeteoritesPro] Enabling MeteoritesPro v1.5.3
+[21:41:39] [Server thread/INFO]:          __
+[21:41:39] [Server thread/INFO]:    |\/| |__)   MeteoritesPro v1.5.3
+[21:41:39] [Server thread/INFO]:    |  | |        by OliPulse
+[21:41:39] [Server thread/INFO]:  
+[21:41:39] [Server thread/INFO]: [MeteoritesPro] Invalid sound type: 'ENTITY_ENDER_DRAGON_GROWL' for guardian 'meteoriteguardian'
+[21:41:39] [Server thread/INFO]: [MeteoritesPro] Invalid particle type: 'SMOKE_LARGE' for particle '2'
+[21:41:39] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.17
+[21:41:39] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
+[21:41:39] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
+[21:41:40] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[21:41:40] [Server thread/INFO]: [TAB] Enabled in 323ms
+[21:41:40] [Server thread/INFO]: [ClanSystem] Enabling ClanSystem v1.0
+[21:41:40] [Server thread/INFO]: [ClanSystem] تم تحميل ملف الإعدادات بنجاح!
+[21:41:40] [Server thread/INFO]: [ClanSystem] تم الاتصال بقاعدة البيانات بنجاح!
+[21:41:40] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تسجيل الأمر الموحد: /clan
+[21:41:40] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تفعيل نظام العشائر بنجاح!
+[21:41:40] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] ClanSystem has been enabled successfully!
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.14.5
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-es.yml as language file
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 14 secciones de tiendas.
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21.8...
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[21:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[21:41:40] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[21:41:41] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 1022ms para completar
+[21:41:41] [Server thread/INFO]: [SimpleTPA] Enabling SimpleTPA v1.0
+[21:41:41] [Server thread/INFO]: [SimpleTPA] SimpleTPA Activated!
+[21:41:41] [Server thread/INFO]: [spark] Starting background profiler...
+[21:41:42] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:41:42] [Server thread/INFO]: Done preparing level "world" (6.725s)
+[21:41:42] [Server thread/INFO]: Running delayed init tasks
+[21:41:42] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[21:41:42] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:41:42] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
+[21:41:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[21:41:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[21:41:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[21:41:42] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[21:41:42] [Server thread/INFO]: Done (22.874s)! For help, type "help"
+[21:41:42] [Server thread/INFO]: [voicechat] Loading plugins
+[21:41:42] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:41:42] [Server thread/INFO]: [voicechat] Initializing plugins
+[21:41:42] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:41:42] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:41:42] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[21:41:42] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
+[21:41:42] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
+[21:41:42] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[21:42:26] [Server thread/INFO]: Stopping the server
+[21:42:26] [Server thread/INFO]: Stopping server
+[21:42:26] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:42:26] [Server thread/INFO]: [SimpleTPA] Disabling SimpleTPA v1.0
+[21:42:26] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.14.5
+[21:42:26] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v22.0.0
+[21:42:26] [Server thread/INFO]: [ClanSystem] Disabling ClanSystem v1.0
+[21:42:26] [Server thread/INFO]: [ClanSystem] §c[ClanSystem] تم إيقاف نظام العشائر!
+[21:42:26] [Server thread/INFO]: [TAB] Disabling TAB v5.2.5
+[21:42:26] [Server thread/INFO]: [TAB] Disabled in 0ms
+[21:42:26] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.17
+[21:42:26] [Server thread/INFO]: [MeteoritesPro] Disabling MeteoritesPro v1.5.3
+[21:42:26] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.35
+[21:42:26] [Server thread/INFO]: [NametagEditX] Disabling NametagEditX v5.0.0
+[21:42:26] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+26-e086064
+[21:42:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:42:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:42:26] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:42:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.11
+[21:42:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:42:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:42:26] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:42:27] [Server thread/INFO]: Saving players
+[21:42:27] [Server thread/INFO]: Saving worlds
+[21:42:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.35s
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:42:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:42:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:42:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:42:27] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:42:27] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:42:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:42:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
