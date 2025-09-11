@@ -1,586 +1,484 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1757630104596 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1757630463032 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630107695 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630466134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630110807 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630469231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630113910 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630472337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630117023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630475438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630120128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630478538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630123242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630481675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630126346 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630484784 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630129452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630487901 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630132565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630491003 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630135665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630494106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630138811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630497229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630141907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630500327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630145009 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630503433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630148110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630506530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630151216 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630509638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630154328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630512757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630157465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630515860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630160568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630518978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630163671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630522115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630166781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630525227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630169902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630528327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630173017 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630531443 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630176130 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630534575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630179228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630537674 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630182348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630540833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630185474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630543940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630188584 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630547076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630191711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630550188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630194805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630553291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630197929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630556389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630201030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630559491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630204158 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630562592 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630207261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630565710 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630210367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630568809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630213463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630571906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630216593 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630575018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630219696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630578124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630222805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630581272 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630225916 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630584389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630229017 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630587490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630232124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630590596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630235218 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630593704 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630238323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630596809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630241429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630599914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630244529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630603013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630247645 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630606232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630250743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630609335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630253837 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630612438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630256933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630615540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630260026 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630618663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630263165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630621768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630266278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630624885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630269376 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630627986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630272473 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630631086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630275611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630634189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630278729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630637296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630281846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630640404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630284950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630643525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630288050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630646632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630291152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630649766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630294251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630652877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630297360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630655974 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630300460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630659077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630303581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630662176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630306681 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630665269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630309805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630668380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630312914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630671483 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630316022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630674614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630319121 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630677715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630322217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630680844 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630325336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630683943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630328435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630687045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630331598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630690146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630334703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630693263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630337813 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630696375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630340953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630699498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630344063 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630702621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630347173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630705726 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630350284 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630708827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
 registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630353383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630356486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630359588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630362698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630365804 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630368930 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630372052 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630375152 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630378271 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630381368 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630384464 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630387564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630390706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630393820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630396921 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630400029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630403147 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-nissan.gl.at.ply.gg:3479 => 127.0.0.1:3479 (proto: Udp, port count: 1)
-registered-cape.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1757630406244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.16.2): 1757630711930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
