@@ -44,3 +44,5 @@ aliases: now-in-commands.yml
 worlds:
   world:
     generator: TerraformGenerator
+  nether:
+    generator: TerraformGenerator
