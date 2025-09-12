@@ -16,9 +16,9 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757702350794
+  logout: 1757703984691
   login: 1757702882747
-money: '540.589999999999887'
+money: '311.849999999999887'
 last-account-name: Jhennsdm
 lastlocation:
   world: a48735db-e111-4706-862b-b0941b5dcef9
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 22695.609527265584
-  y: 91.0
-  z: 25360.281075486284
-  yaw: -145.765625
-  pitch: -3.0320608615875244
+  x: 22703.794269324128
+  y: 92.0
+  z: 25357.560132549195
+  yaw: 100.156494140625
+  pitch: 41.60655212402344
