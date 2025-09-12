@@ -1,0 +1,38 @@
+players:
+  77a390da-81bb-3a9a-83b6-98e9f9115325:
+    aef97d85:
+      display-name: Stone Miner
+      description: Mine 129 stone blocks
+      type: BREAK_BLOCK
+      job: miner
+      target: STONE
+      required-amount: 129
+      progress: 129
+      money-reward: 26.146838014619647
+      xp-reward: 143.01998860633816
+      expiry-time: 1757720985328
+      completed: true
+    d697c9c2:
+      display-name: Stone Miner
+      description: Mine 79 stone blocks
+      type: BREAK_BLOCK
+      job: miner
+      target: STONE
+      required-amount: 79
+      progress: 79
+      money-reward: 46.14130657869269
+      xp-reward: 100.64573986256366
+      expiry-time: 1757720985323
+      completed: true
+    091c2829:
+      display-name: Stone Miner
+      description: Mine 106 stone blocks
+      type: BREAK_BLOCK
+      job: miner
+      target: STONE
+      required-amount: 106
+      progress: 106
+      money-reward: 35.163209341687065
+      xp-reward: 181.88974406833063
+      expiry-time: 1757720985328
+      completed: true

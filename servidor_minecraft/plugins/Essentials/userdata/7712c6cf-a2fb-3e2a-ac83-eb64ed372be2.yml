@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757365447888
-  login: 1757362760588
-money: '403.48999999999999996'
+  logout: 1757639130934
+  login: 1757638969634
+money: '0'
 last-account-name: regsexl
 logoutlocation:
-  world: 378778be-ef0d-45f2-b0a3-095d71861a60
-  world-name: world
-  x: 22364.69999998808
-  y: 121.0
-  z: 25375.517863692723
-  yaw: 77.51296997070312
-  pitch: -20.31350326538086
+  world: 5a94e819-a634-41df-b65a-6d63bc07993f
+  world-name: world_nether
+  x: 2744.6904904294042
+  y: 30.0
+  z: 3472.0733157359036
+  yaw: -0.9095458984375
+  pitch: 80.21693420410156
 lastlocation:
-  world: 378778be-ef0d-45f2-b0a3-095d71861a60
-  world-name: world
-  x: 954.6867166145497
-  y: 79.5
-  z: -18518.483115877498
-  yaw: 82.094970703125
-  pitch: 16.67620277404785
+  world: 5a94e819-a634-41df-b65a-6d63bc07993f
+  world-name: world_nether
+  x: 2706.8884836190723
+  y: 14.0
+  z: 3457.7300086953037
+  yaw: -44.27783203125
+  pitch: 76.18855285644531

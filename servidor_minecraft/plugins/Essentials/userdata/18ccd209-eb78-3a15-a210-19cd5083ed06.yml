@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1757290360846
-  login: 1757289955436
+  logout: 1757634843483
+  login: 1757634578978
 money: '10000'
 last-account-name: tworegsexl
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 378778be-ef0d-45f2-b0a3-095d71861a60
   world-name: world
-  x: 17770.08459292013
-  y: 74.0
-  z: 5304.735055749957
-  yaw: 0.4722900390625
-  pitch: 9.094058990478516
+  x: 17776.69999998808
+  y: 47.0
+  z: 5433.713338488825
+  yaw: -137.10098266601562
+  pitch: 10.662742614746094
