@@ -1,7 +1,6 @@
 players:
   77a390da-81bb-3a9a-83b6-98e9f9115325:
     aef97d85:
-      display-name: Stone Miner
       description: Mine 129 stone blocks
       type: BREAK_BLOCK
       job: miner
