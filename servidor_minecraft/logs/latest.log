@@ -1,332 +1,90 @@
-[18:28:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[18:28:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[18:28:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:28:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 18 plugins
-[18:28:43] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
- - EconomyShopGUI (6.14.5)
-[18:28:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (17):
- - ClanSystem (1.0), EnchantsSquared (2.5.17), Essentials (2.22.0-dev+26-e086064), LuckPerms (5.5.11), MeteoritesPro (1.5.3), NametagEditX (5.0.0), PlaceholderAPI (2.11.6), ProtectionStones (2.10.5), SimpleTPA (1.0), SkinsRestorer (15.7.10), TAB (5.2.5), TerraformGenerator (22.0.0), UmbraixJobs (1.2.0), Vault (1.7.3-b131), WorldEdit (7.3.16+cbf4bd5), WorldGuard (7.0.14+2339-43997ec), voicechat (2.5.35)
-[18:28:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:28:50] [ServerMain/INFO]: Loaded 1407 recipes
-[18:28:50] [ServerMain/INFO]: Loaded 1520 advancements
-[18:28:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[18:28:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,263.4ms
-[18:28:52] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[18:28:52] [Server thread/INFO]: Loading properties
-[18:28:52] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[18:28:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:28:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:28:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:28:53] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:28:53] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:28:53] [Server thread/INFO]: Default game type: SURVIVAL
-[18:28:53] [Server thread/INFO]: Generating keypair
-[18:28:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:28:53] [Server thread/INFO]: Using epoll channel type
-[18:28:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:28:53] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[18:28:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.11
-[18:28:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:28:55] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:28:55] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.16+cbf4bd5
-[18:28:56] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@62d8e62f]
-[18:28:56] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:28:56] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.14+2339-43997ec
-[18:28:56] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+26-e086064
-[18:28:56] [Server thread/INFO]: [NametagEditX] Loading server plugin NametagEditX v5.0.0
-[18:28:56] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.35
-[18:28:56] [Server thread/INFO]: [MeteoritesPro] Loading server plugin MeteoritesPro v1.5.3
-[18:28:56] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
-[18:28:56] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.17
-[18:28:57] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.5
-[18:28:57] [Server thread/INFO]: [UmbraixJobs] Loading server plugin UmbraixJobs v1.2.0
-[18:28:57] [Server thread/INFO]: [ClanSystem] Loading server plugin ClanSystem v1.0
-[18:28:57] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v22.0.0
-[18:28:57] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.14.5
-[18:28:57] [Server thread/INFO]: [SimpleTPA] Loading server plugin SimpleTPA v1.0
-[18:28:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[18:28:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:28:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.11
-[18:28:57] [Server thread/INFO]:         __    
-[18:28:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.11
-[18:28:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:28:57] [Server thread/INFO]: 
-[18:28:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:28:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:28:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:28:59] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2122ms)
-[18:28:59] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:28:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[18:28:59] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:28:59] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:28:59] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:28:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.16+cbf4bd5
-[18:28:59] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18:28:59] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[18:29:00] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_6.PaperweightAdapter as the Bukkit adapter
-[18:29:01] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v22.0.0
-[18:29:02] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[18:29:02] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[18:29:02] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
-[18:29:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[18:29:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[18:29:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:29:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.10]
-[18:29:03] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[18:29:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:29:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:29:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:29:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:29:04] [Server thread/INFO]: Preparing level "world"
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:29:04] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:29:05] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[18:29:05] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[18:29:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:29:05] [Server thread/INFO]: Preparing spawn area: 0%
-[18:29:05] [Server thread/INFO]: Preparing spawn area: 10%
-[18:29:06] [Server thread/INFO]: Preparing spawn area: 18%
-[18:29:06] [Server thread/INFO]: Preparing spawn area: 20%
-[18:29:07] [Server thread/INFO]: Preparing spawn area: 73%
-[18:29:07] [Server thread/INFO]: Time elapsed: 2221 ms
-[18:29:07] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[18:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:29:07] [Server thread/INFO]: Preparing spawn area: 0%
-[18:29:07] [Server thread/INFO]: Preparing spawn area: 63%
-[18:29:07] [Server thread/INFO]: Time elapsed: 606 ms
-[18:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:29:08] [Server thread/INFO]: Preparing spawn area: 0%
-[18:29:08] [Server thread/INFO]: Preparing spawn area: 26%
-[18:29:08] [Server thread/INFO]: Time elapsed: 729 ms
-[18:29:08] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:29:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:29:08] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.14+2339-43997ec
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[18:29:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[18:29:09] [Server thread/INFO]: [WorldGuard] Loading region data...
-[18:29:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+26-e086064
-[18:29:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[18:29:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[18:29:09] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[18:29:10] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[18:29:10] [Server thread/INFO]: [Essentials] Using locale en
-[18:29:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[18:29:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[18:29:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[18:29:10] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[18:29:10] [Server thread/INFO]: [NametagEditX] Enabling NametagEditX v5.0.0
-[18:29:11] [Server thread/INFO]: [NametagEditX] Found LuckPerms! Hooking in.
-[18:29:11] [Server thread/INFO]: [NametagEditX] Found PlaceholderAPI! Hooking in.
-[18:29:11] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.35
-[18:29:11] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
-[18:29:11] [Server thread/INFO]: [voicechat] Compatibility version 18
-[18:29:11] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[18:29:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.35]
-[18:29:11] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
-[18:29:11] [Server thread/INFO]: [MeteoritesPro] Enabling MeteoritesPro v1.5.3
-[18:29:11] [Server thread/INFO]:          __
-[18:29:11] [Server thread/INFO]:    |\/| |__)   MeteoritesPro v1.5.3
-[18:29:11] [Server thread/INFO]:    |  | |        by OliPulse
-[18:29:11] [Server thread/INFO]:  
-[18:29:11] [Server thread/INFO]: [MeteoritesPro] Invalid sound type: 'ENTITY_ENDER_DRAGON_GROWL' for guardian 'meteoriteguardian'
-[18:29:11] [Server thread/INFO]: [MeteoritesPro] Invalid particle type: 'SMOKE_LARGE' for particle '2'
-[18:29:11] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
-[18:29:11] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
-[18:29:11] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
-[18:29:11] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
-[18:29:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
-[18:29:11] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
-[18:29:11] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - OBSIDIAN (10000)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (224)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - COAL_ORE (50)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (80)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (672)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (112)
-[18:29:11] [Server thread/INFO]: [ProtectionStones] Building region cache...
-[18:29:11] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
-[18:29:12] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
-[18:29:12] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
-[18:29:12] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.17
-[18:29:12] [Server thread/INFO]: [TAB] Enabling TAB v5.2.5
-[18:29:12] [Server thread/INFO]: [TAB] [WARN] [config.yml] belowname-objective: Belowname title is set to "&c❤ &f| &b%statistic_player_kills% ⚔", however, the feature cannot display different title on different players due to a minecraft limitation. Placeholders will be parsed for viewing player. To display per-player placeholders correctly, move them to fancy-value and only keep static text in title (this only works on 1.20.3+, on older versions you will need to use "value", which only supports numbers).
-[18:29:12] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[18:29:12] [Server thread/INFO]: [TAB] Enabled in 241ms
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Enabling UmbraixJobs v1.2.0
-[18:29:12] [Server thread/INFO]: ╔═════════════════════════════════════════════════════════╗
-[18:29:12] [Server thread/INFO]: ║                                                         ║
-[18:29:12] [Server thread/INFO]: ║   UmbraixJobs - v1.2.0                               ║
-[18:29:12] [Server thread/INFO]: ║   A high-performance, feature-rich Minecraft Jobs Plugin ║
-[18:29:12] [Server thread/INFO]: ║                                                         ║
-[18:29:12] [Server thread/INFO]: ║   Developed by: Prathmesh </> (prathmesh_pro)               ║
-[18:29:12] [Server thread/INFO]: ║   Part of: Team Umbraix                              ║
-[18:29:12] [Server thread/INFO]: ║                                                         ║
-[18:29:12] [Server thread/INFO]: ╚═════════════════════════════════════════════════════════╝
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Using Vault for economy support with provider: EssentialsX Economy
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Discord webhook integration is disabled in config.
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] DiscordSRV not found. Integration disabled.
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded job: Miner
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded job: Farmer
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded job: Hunter
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded 3 jobs from config.
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Stone Miner
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Coal Collector
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Iron Miner
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Diamond Hunter
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Wheat Harvester
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Carrot Collector
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Potato Farmer
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Zombie Hunter
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Skeleton Hunter
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded mission template: Creeper Hunter
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded 10 mission templates.
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] Loaded 3 player missions (0 expired).
-[18:29:12] [Server thread/INFO]: [UmbraixJobs] §b§lUmbraix§3§lJobs v1.2.0 has been enabled!
-[18:29:12] [Server thread/INFO]: [ClanSystem] Enabling ClanSystem v1.0
-[18:29:12] [Server thread/INFO]: [ClanSystem] تم تحميل ملف الإعدادات بنجاح!
-[18:29:12] [Server thread/INFO]: [ClanSystem] تم الاتصال بقاعدة البيانات بنجاح!
-[18:29:12] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تسجيل الأمر الموحد: /clan
-[18:29:12] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] تم تفعيل نظام العشائر بنجاح!
-[18:29:12] [Server thread/INFO]: [ClanSystem] §a[ClanSystem] ClanSystem has been enabled successfully!
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.14.5
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-es.yml as language file
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 17 configuraciones de la sección de /secciones/
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 17 tiendas desde /shops/
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 15 secciones de tiendas.
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21.8...
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
-[18:29:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
-[18:29:12] [Server thread/INFO]: [EconomyShopGUI] [WARN]: The place of shop Protcciones in the main shop-inventory has automatically been changed to '0' because it was already used or could not be found.
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: El artículo no existe.
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Ruta del artículo en sections.yml: Protcciones
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  1000
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.1
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  672
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.2
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  224
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.3
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  112
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.4
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  80
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.5
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: No se pudo obtener el material del artículo. Si cree que esto es un error, infórmelo  a  nuestro  servidor  de  soporte  de  discord  que  puede  encontrar  en  la  página  del  complemento.  50
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [WARN]: In shops config /shops/Protcciones.yml at location: page1.items.6
-[18:29:13] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 900ms para completar
-[18:29:13] [Server thread/INFO]: [SimpleTPA] Enabling SimpleTPA v1.0
-[18:29:13] [Server thread/INFO]: [SimpleTPA] SimpleTPA Activated!
-[18:29:13] [Server thread/INFO]: [spark] Starting background profiler...
-[18:29:14] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:29:14] [Server thread/INFO]: Done preparing level "world" (10.946s)
-[18:29:14] [Server thread/INFO]: Running delayed init tasks
-[18:29:14] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[18:29:15] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[18:29:15] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[18:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[18:29:15] [Server thread/INFO]: 3 placeholder hook(s) registered!
-[18:29:15] [Server thread/INFO]: Done (39.241s)! For help, type "help"
-[18:29:15] [Server thread/INFO]: [voicechat] Loading plugins
-[18:29:15] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[18:29:15] [Server thread/INFO]: [voicechat] Initializing plugins
-[18:29:15] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[18:29:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[18:29:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[18:29:15] [Craft Scheduler Thread - 5 - Vault/INFO]: [Vault] No new version available
-[18:29:15] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] You're 2 EssentialsX dev build(s) out of date!
-[18:29:15] [Craft Scheduler Thread - 2 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[18:31:25] [User Authenticator #0/INFO]: UUID of player Jhennsdm is 29cb5f03-1d37-379f-a6fb-d0620d083c9e
-[18:31:25] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, SkinsRestorer, Essentials, WorldGuard]
-[18:31:30] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:31:30] [Server thread/INFO]: Jhennsdm joined the game
-[18:31:30] [Server thread/INFO]: Jhennsdm[/127.133.200.124:33857] logged in with entity id 98 at ([world]22699.051770353224, 92.0, 25365.1214199428)
-[18:34:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:34:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:39:10] [Server thread/INFO]: Jhennsdm lost connection: Disconnected
-[18:39:10] [Server thread/INFO]: [voicechat] Disconnecting client Jhennsdm
-[18:39:10] [Server thread/INFO]: Jhennsdm left the game
-[18:39:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:39:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:40:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-a<--[HERE]
-[18:44:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:44:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:48:00] [User Authenticator #1/INFO]: UUID of player Jhennsdm is 29cb5f03-1d37-379f-a6fb-d0620d083c9e
-[18:48:02] [Server thread/INFO]: Jhennsdm joined the game
-[18:48:02] [Server thread/INFO]: Jhennsdm[/127.133.200.124:48815] logged in with entity id 1272 at ([world]22695.609527265584, 91.0, 25360.281075486284)
-[18:48:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Jhennsdm> hello madafakers
-[18:49:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:49:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:54:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:54:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:59:04] [Server thread/INFO]: Jhennsdm issued server command: /shop
-[18:59:08] [Server thread/INFO]: Shop >> Jhennsdm vendido 76 x Quartz(Ores.page1.items.21) para 157.32$ con el pantalla de venta rápida.
-[18:59:14] [Server thread/INFO]: [MeteoritesPro] An Icy Meteorite has been sighted near X:-3 Z:-167 !
-[18:59:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[18:59:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[18:59:44] [Server thread/INFO]: Jhennsdm issued server command: /shop
-[18:59:58] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Anvil(Miscellaneous.page1.items.1) para 187.25$ con el comprar pantalla.
-[19:00:07] [Server thread/INFO]: Jhennsdm issued server command: /shop
-[19:00:26] [Server thread/INFO]: Jhennsdm issued server command: /shop
-[19:00:39] [Server thread/INFO]: Shop >> Jhennsdm compró 1 x Enchanted Book(Enchanting.page1.items.40) para 441.00$ con el comprar pantalla.
-[19:04:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[19:04:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
-[19:04:57] [Server thread/INFO]: Jhennsdm issued server command: /shop
-[19:05:06] [Server thread/INFO]: Shop >> Jhennsdm vendido 117 x Quartz(Ores.page1.items.21) para 242.19$ con el pantalla de venta rápida.
-[19:06:24] [Server thread/INFO]: Jhennsdm lost connection: Timed out
-[19:06:24] [Server thread/INFO]: [voicechat] Disconnecting client Jhennsdm
-[19:06:24] [Server thread/INFO]: Jhennsdm left the game
-[19:09:14] [Server thread/INFO]: [UmbraixJobs] Saving job data for 1 players...
-[19:09:14] [Server thread/INFO]: [UmbraixJobs] Saved all player data, missions, and teams.
+[14Sep2025 20:32:40.911] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Sep2025 20:32:40.920] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[14Sep2025 20:32:42.440] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Sep2025 20:32:42.451] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[14Sep2025 20:32:42.493] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[14Sep2025 20:32:42.531] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[14Sep2025 20:32:42.615] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Sever-Prueba-3/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23190%23193!/ Service=ModLauncher Env=SERVER
+[14Sep2025 20:32:43.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Sep2025 20:32:43.406] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Sep2025 20:32:43.407] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Sep2025 20:32:43.411] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Sever-Prueba-3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Sep2025 20:32:45.166] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Sep2025 20:32:45.169] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: /workspaces/Sever-Prueba-3/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[14Sep2025 20:32:45.170] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 88 dependencies adding them to mods collection
+[14Sep2025 20:32:46.098] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 2 candidates to load
+[14Sep2025 20:32:53.302] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[14Sep2025 20:32:53.320] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[14Sep2025 20:32:53.330] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[14Sep2025 20:32:53.336] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/Sever-Prueba-3/servidor_minecraft/mods/scripts as it did not exist.
+[14Sep2025 20:32:53.344] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[14Sep2025 20:32:53.813] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[14Sep2025 20:32:54.176] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Found version metadata from piston-meta.
+[14Sep2025 20:32:54.197] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: version.json is up to date.
+[14Sep2025 20:32:54.638] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Official mappings are up to date.
+[14Sep2025 20:32:55.143] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: MCPConfig is up to date.
+[14Sep2025 20:32:55.149] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Sep2025 20:32:56.058] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[14Sep2025 20:32:56.083] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Sep2025 20:32:56.226] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.24.4+mc1.20.1: 96 options available, 0 override(s) found
+[14Sep2025 20:32:56.227] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14Sep2025 20:32:56.334] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14Sep2025 20:32:56.507] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 184 options available, 3 override(s) found
+[14Sep2025 20:32:56.702] [main/WARN] [mixin/]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Sep2025 20:32:57.056] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Sep2025 20:32:57.139] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[14Sep2025 20:32:57.269] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Sep2025 20:32:58.242] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 4891ms
+[14Sep2025 20:32:58.244] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[14Sep2025 20:32:58.689] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[14Sep2025 20:32:58.690] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[14Sep2025 20:32:58.693] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[14Sep2025 20:32:58.695] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[14Sep2025 20:32:58.695] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[14Sep2025 20:32:58.695] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[14Sep2025 20:32:59.191] [main/WARN] [mixin/]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[14Sep2025 20:33:00.455] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14Sep2025 20:33:00.963] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[14Sep2025 20:33:00.965] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[14Sep2025 20:33:00.965] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+[14Sep2025 20:33:00.966] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[14Sep2025 20:33:00.966] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[14Sep2025 20:33:00.967] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[14Sep2025 20:33:00.967] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[14Sep2025 20:33:00.968] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[14Sep2025 20:33:00.968] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[14Sep2025 20:33:00.969] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1077]: 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[14Sep2025 20:33:00.970] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: Caused by: java.lang.reflect.InvocationTargetException
+[14Sep2025 20:33:00.973] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14Sep2025 20:33:00.974] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[14Sep2025 20:33:00.974] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[14Sep2025 20:33:00.974] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+[14Sep2025 20:33:00.975] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[14Sep2025 20:33:00.978] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103)
+[14Sep2025 20:33:00.979] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27)
+[14Sep2025 20:33:00.979] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[14Sep2025 20:33:00.979] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1086]: 	... 7 more
+[14Sep2025 20:33:00.981] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: Caused by: java.lang.ExceptionInInitializerError
+[14Sep2025 20:33:00.982] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.MutableComponent.m_237204_(MutableComponent.java:29)
+[14Sep2025 20:33:00.983] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Component.m_237115_(Component.java:444)
+[14Sep2025 20:33:00.984] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.commands.BrigadierExceptions.<clinit>(BrigadierExceptions.java:24)
+[14Sep2025 20:33:00.984] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.SharedConstants.<clinit>(SharedConstants.java:216)
+[14Sep2025 20:33:00.985] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Main.main(Main.java:69)
+[14Sep2025 20:33:00.986] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:659]: 	... 15 more
+[14Sep2025 20:33:00.988] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[14Sep2025 20:33:00.988] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+[14Sep2025 20:33:00.989] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+[14Sep2025 20:33:00.989] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+[14Sep2025 20:33:00.991] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+[14Sep2025 20:33:00.992] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+[14Sep2025 20:33:00.992] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[14Sep2025 20:33:00.993] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[14Sep2025 20:33:00.993] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[14Sep2025 20:33:00.993] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[14Sep2025 20:33:00.994] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[14Sep2025 20:33:00.994] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.handler$zif000$entity_texture_features$etf$illegalPathOverride(ResourceLocation.java:525)
+[14Sep2025 20:33:00.997] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_135841_(ResourceLocation.java:200)
+[14Sep2025 20:33:00.997] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.m_245185_(ResourceLocation.java:235)
+[14Sep2025 20:33:00.999] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:38)
+[14Sep2025 20:33:01.001] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.chat.Style.<clinit>(Style.java:39)
+[14Sep2025 20:33:01.003] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:682]: 	... 20 more

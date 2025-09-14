@@ -1,6 +1,0 @@
-Groups:
-  default:
-    Permission: nte.default
-    Prefix: '%luckperms_prefix%'
-    Suffix: ''
-    SortPriority: -1
